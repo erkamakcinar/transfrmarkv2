@@ -1,8 +1,94 @@
 {% extends "layout.html" %}
-{% block content %}
-    <h1>HomePage</h1>
-{% endblock content %}
+{% block  Navbar %}
+    <!-- Navbar -->
+    <header class="site-header">
+        <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+            <div class="container">
+                <a class="navbar-brand mr-4" href="/"> <h4> Transfermarkt </h4></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle"
+                    aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarToggle">
+                </div>
+            </div>
+        </nav>
+    </header>
+{% endblock Navbar %}
 
-{% block content2 %}
-    <p>Home21 - {{x}}</p>
-{% endblock content2 %}
+{% block main %}
+<main role="main" class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="content-section">
+                <p class='text-muted'>Filtreleme Seçenekleri</p>
+                <button type="button" class="btn" data-toggle="collapse" data-target="#takım">Takımlar</button>
+                <div id="takım" class="collapse">
+                    {% for i in range( teams|length) %}
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="takim1" name="fenerbahçe" value="something">
+                        <label class="form-check-label" for="check1"> {{ teams[i] }}</label>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="col-md-8">
+            <div class="panel panel-default">
+                <div class="panel-body">A Basic Panel</div>
+            </div>
+        </div>
+</main>
+{% endblock main %}
+
+{% block  table %}
+<div class="container">
+    <table id="table"
+        data-toggle="table"
+        data-filter-control="true"
+        data-show-search-clear-button="true"
+        data-sortable="true"
+        classes="table-sm"
+        data-pagination="true"
+        data-show-columns="true"
+        data-show-columns-toggle-all="true"
+        class="table-responsive">
+        <thead>
+            <tr>
+                <th data-field="columnA" data-filter-control="input" data-sortable="true">column A</th>
+                <th data-field="columnB" data-filter-control="select" data-sortable="true">column B</th>
+                <th data-field="columnC" data-filter-control="input" data-sortable="true">column C</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in teams %}
+            <tr>
+                <td>{{ row }}</td>
+                <td>{{ row }}</td>
+                <td>{{ row }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <style>
+        table {
+          border-collapse: collapse;
+          
+        }
+        tr { 
+          border: solid;
+          border-width: 1px 0;
+        }
+        tr:first-child {
+            border-top: none;
+        }
+        tr:last-child {
+            border-bottom: none;
+        }
+        table td {
+            border-left: 1px solid #000;
+            border-right: 1px solid #000;
+        }
+        </style>
+</div>
+{% endblock table %}
