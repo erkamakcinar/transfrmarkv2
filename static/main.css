@@ -3,13 +3,20 @@ body {
     color: #333333;
     margin-top: 5rem;
   }
+  table {
+    border-collapse: collapse;
+  }
+  tr { 
+    border: solid;
+    border-width: 1px 0;
+  }
   
   h1, h2, h3, h4, h5, h6 {
-    color: #444444;
+    color: #991b1b;
   }
   
   .bg-steel {
-    background-color: #5f788a;
+    background-color: #c7ced2;
   }
   
   .site-header .navbar-nav .nav-link {
