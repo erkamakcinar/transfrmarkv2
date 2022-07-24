@@ -1,8 +1,8 @@
 # transfrmarkv2
 terminal:
-export FLASK_APP=server.py
+export FLASK_APP=run.py
 export FLASK_DEBUG=1
-flask run
+flask run 
 
 
 form:
