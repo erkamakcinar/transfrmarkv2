@@ -1,4 +1,4 @@
-from flask import Flask,render_template, request, flash
+from flask import Flask,render_template, request
 from filter import TeamFiler, PlayerFiler
 from flask_sqlalchemy import SQLAlchemy
 import os
@@ -20,10 +20,6 @@ def home():
     playerFilter = PlayerFiler()
     if request.method == "POST":
         pass
-    if teamFilter.validate_on_submit():
-        flash(f'Filtreleme Yapıldı', 'success')
-    
-   
     return render_template('home.html', title='Best Football Site', teams=teams, teamFilter=teamFilter, playerFilter=playerFilter)
 
 if __name__ == '__main__':
