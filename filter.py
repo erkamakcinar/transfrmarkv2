@@ -1,6 +1,7 @@
 from flask_wtf import FlaskForm
 from wtforms import  IntegerField, SubmitField, StringField, FloatField
 from wtforms.validators import DataRequired, Length
+
 class TeamFiler(FlaskForm):
     team_name = StringField('Takım İsmi', validators=[DataRequired(), Length(min=0, max=5)])
     cup_num = IntegerField('Kupa Sayısı')
