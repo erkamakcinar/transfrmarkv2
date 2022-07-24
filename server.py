@@ -1,11 +1,25 @@
-from flask import Flask,render_template, url_for
+from flask import Flask,render_template, request, flash
+from filter import TeamFiler, PlayerFiler
+import os
+
+
 
 app = Flask(__name__)
+SECRET_KEY = os.urandom(32)
+app.config['SECRET_KEY'] = SECRET_KEY
 teams = ["fb", "gs", "bjk", "ts"]
 x=8
-@app.route("/")
+@app.route("/", methods=["POST", "GET"])
 def home():
-    return render_template('home.html', title='Best Football Site', teams=teams)
+    teamFilter = TeamFiler()
+    playerFilter = PlayerFiler()
+    if request.method == "POST":
+        pass
+    if teamFilter.validate_on_submit():
+        flash(f'Filtreleme Yapıldı', 'success')
+    
+   
+    return render_template('home.html', title='Best Football Site', teams=teams, teamFilter=teamFilter, playerFilter=playerFilter)
 
 if __name__ == '__main__':
     app.run(debug=True)

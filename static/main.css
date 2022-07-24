@@ -4,11 +4,24 @@ body {
     margin-top: 5rem;
   }
   table {
+    font-family: arial, sans-serif;
     border-collapse: collapse;
+    width: 100%;
   }
   tr { 
     border: solid;
     border-width: 1px 0;
+  }
+
+  tr:first-child {
+    border-top: none;
+  }
+  tr:last-child {
+    border-bottom: none;
+  }
+  table td {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
   }
   
   h1, h2, h3, h4, h5, h6 {

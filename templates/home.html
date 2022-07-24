@@ -16,48 +16,64 @@
     </header>
 {% endblock Navbar %}
 
-{% block main %}
-<main role="main" class="container">
-    <div class="row">
-        <div class="col-md-4">
-            <div class="content-section">
-                <p class='text-muted'>Filtreleme Seçenekleri</p>
-                <button type="button" class="btn" data-toggle="collapse" data-target="#takım">Takımlar</button>
-                <div id="takım" class="collapse">
-                    {% for i in range( teams|length) %}
-                    <div class="form-check">
-                        <input type="checkbox" class="form-check-input" id="takim1" name="fenerbahçe" value="something">
-                        <label class="form-check-label" for="check1"> {{ teams[i] }}</label>
-                    </div>
-                    {% endfor %}
-                </div>
-            </div>
+{% block teamFilter %}
+<div class="content-section">
+        <form action="" method="post">
+        {{ teamFilter.hidden_tag() }}
+        <fieldset class="form-group">
+        <legend class="border-bottom mb-3">Takımları Filtrele</legend>
+        <p>Filtreleme Seçenekleri</p>
+        <div class="form-group">
+            {{ teamFilter.team_name.label(class="form-control-label") }}
+            {{ teamFilter.team_name(class="form-control form-control-lg") }}
         </div>
-        <div class="col-md-8">
-            <div class="panel panel-default">
-                <div class="panel-body">A Basic Panel</div>
-            </div>
+        <div class="form-group">
+            {{ teamFilter.cup_num.label(class="form-control-label") }}
+            {{ teamFilter.cup_num(class="form-control form-control-lg") }}
         </div>
-</main>
-{% endblock main %}
+        <div class="form-group">
+            {{ teamFilter.total_val.label(class="form-control-label") }}
+            {{ teamFilter.total_val(class="form-control form-control-lg") }}
+        </div>
+        </fieldset>
+        <div class="form-group">
+            {{ teamFilter.submit(class="btn btn-outline-info") }}
+        </div>
+    </form>
+</div>
+{% endblock teamFilter %}
 
-{% block  table %}
+{% block playerFilter %}
+<div class="content-section">
+        <form action="" method="post">
+        {{ playerFilter.hidden_tag() }}
+        <fieldset class="form-group">
+        <legend class="border-bottom mb-3">Oyuncuları Filtrele</legend>
+        <p>Filtreleme Seçenekleri</p>
+        <div class="form-group">
+            {{ playerFilter. player_name.label(class="form-control-label") }}
+            {{ playerFilter. player_name(class="form-control form-control-lg") }}
+        </div>
+        <div class="form-group">
+            {{ playerFilter.player_value.label(class="form-control-label") }}
+            {{ playerFilter.player_value(class="form-control form-control-lg") }}
+        </div>
+        </fieldset>
+        <div class="form-group">
+            {{ playerFilter.submit(class="btn btn-outline-info") }}
+        </div>
+    </form>
+</div>
+{% endblock playerFilter %}
+
+{% block table %}
 <div class="container">
-    <table id="table"
-        data-toggle="table"
-        data-filter-control="true"
-        data-show-search-clear-button="true"
-        data-sortable="true"
-        classes="table-sm"
-        data-pagination="true"
-        data-show-columns="true"
-        data-show-columns-toggle-all="true"
-        class="table-responsive">
+    <table id="table" border = "3">
         <thead>
             <tr>
-                <th data-field="columnA" data-filter-control="input" data-sortable="true">column A</th>
-                <th data-field="columnB" data-filter-control="select" data-sortable="true">column B</th>
-                <th data-field="columnC" data-filter-control="input" data-sortable="true">column C</th>
+                <th  data-field="İsim">İsim</th>
+                <th  data-field="Şehir">Şehir</th>
+                <th  data-field="Stadium İsmi">Stadium İsmi</th>
             </tr>
         </thead>
         <tbody>
@@ -70,25 +86,5 @@
             {% endfor %}
         </tbody>
     </table>
-    <style>
-        table {
-          border-collapse: collapse;
-          
-        }
-        tr { 
-          border: solid;
-          border-width: 1px 0;
-        }
-        tr:first-child {
-            border-top: none;
-        }
-        tr:last-child {
-            border-bottom: none;
-        }
-        table td {
-            border-left: 1px solid #000;
-            border-right: 1px solid #000;
-        }
-        </style>
 </div>
 {% endblock table %}

@@ -22,8 +22,17 @@
 
 <body>
     {% block  Navbar %}{% endblock Navbar %}
-    {% block main %}{% endblock main %}
-    {% block  table %}{% endblock table %}
+    <main role="main" class="container">
+        <div class="row">
+            <div class="col">
+                {% block teamFilter %}{% endblock teamFilter %}
+                {% block playerFilter %}{% endblock playerFilter %}
+            </div>
+            <div class="col">
+                {% block table %}{% endblock table %}
+            </div> 
+        </div>
+    </main>    
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
