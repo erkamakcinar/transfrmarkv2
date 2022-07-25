@@ -1,4 +1,4 @@
-from flask import render_template, request
+from flask import render_template, request, redirect
 from packet import app
 from packet.filter import TeamFiler, PlayerFiler
 
