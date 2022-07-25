@@ -9,7 +9,8 @@ form:
 pip install flask-wtf
 
 db:
- pip install flask-sqlalchemy
+pip install flask-sqlalchemy
+pip install flask-mysql
 
 git:
 https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
