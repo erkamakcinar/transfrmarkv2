@@ -2,14 +2,11 @@
 {% block  Navbar %}
     <!-- Navbar -->
     <header class="site-header">
-        <nav class="navbar navbar-expand-md navbar-dark bg-steel fixed-top">
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
             <div class="container">
-                <a class="navbar-brand mr-4" href="/"> <h4> Transfermarkt </h4></a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggle"
-                    aria-controls="navbarToggle" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarToggle">
+                <a class="navbar-brand" href="/"> 
+                    <h4 class="text-info"> Transfermarkt_v2 </h4>
+                </a>
                 </div>
             </div>
         </nav>
@@ -21,24 +18,25 @@
         <form action="" method="post">
         {{ teamFilter.hidden_tag() }}
         <fieldset class="form-group">
-        <legend class="border-bottom mb-3">Takımları Filtrele</legend>
-        <p>Filtreleme Seçenekleri</p>
-        <div class="form-group">
-            {{ teamFilter.team_name.label(class="form-control-label") }}
-            {{ teamFilter.team_name(class="form-control form-control-lg") }}
-        </div>
-        <div class="form-group">
-            {{ teamFilter.cup_num.label(class="form-control-label") }}
-            {{ teamFilter.cup_num(class="form-control form-control-lg") }}
-        </div>
-        <div class="form-group">
-            {{ teamFilter.total_val.label(class="form-control-label") }}
-            {{ teamFilter.total_val(class="form-control form-control-lg") }}
-        </div>
+            <legend class="border-bottom mb-3">Takımları Filtrele</legend>
+            <p>Filtreleme Seçenekleri</p>
+            <div class="form-group row">
+                {{ teamFilter.team_name.label(class="col-lg-5 col-md-7 form-control-label") }}
+                {{ teamFilter.team_name(class="col ml-1 form-control-sm") }}
+            </div>
+            <div class="form-group row">
+                {{ teamFilter.cup_num.label(class="col-lg-5 col-md-7 form-control-label") }}
+                {{ teamFilter.cup_num(class="col ml-1 form-control-sm") }}
+            </div>
+            <div class="form-group row">
+                {{ teamFilter.total_val.label(class="col-lg-5 col-md-7 form-control-label") }}
+                {{ teamFilter.total_val(class="col ml-1 form-control-sm") }}
+            </div>
+            <div class="form-group row">
+                {{ teamFilter.submit(class="col btn btn-outline-info") }}
+            </div>
         </fieldset>
-        <div class="form-group">
-            {{ teamFilter.submit(class="btn btn-outline-info") }}
-        </div>
+
     </form>
 </div>
 {% endblock teamFilter %}
@@ -48,20 +46,21 @@
         <form action="" method="post">
         {{ playerFilter.hidden_tag() }}
         <fieldset class="form-group">
-        <legend class="border-bottom mb-3">Oyuncuları Filtrele</legend>
-        <p>Filtreleme Seçenekleri</p>
-        <div class="form-group">
-            {{ playerFilter. player_name.label(class="form-control-label") }}
-            {{ playerFilter. player_name(class="form-control form-control-lg") }}
-        </div>
-        <div class="form-group">
-            {{ playerFilter.player_value.label(class="form-control-label") }}
-            {{ playerFilter.player_value(class="form-control form-control-lg") }}
-        </div>
+            <legend class="border-bottom mb-3">Oyuncuları Filtrele</legend>
+            <p>Filtreleme Seçenekleri</p>
+            <div class="form-group row">
+            {{ playerFilter. player_name.label(class="col-lg-5 col-md-7 form-control-label") }}
+            {{ playerFilter. player_name(class="col ml-1 form-control-sm") }}
+            </div>
+            <div class="form-group row">
+            {{ playerFilter.player_value.label(class="col-lg-5 col-md-7 form-control-label") }}
+            {{ playerFilter.player_value(class="col ml-1 form-control-sm") }}
+            </div>
+            <div class="form-group row">
+                {{ playerFilter.submit(class="col btn btn-outline-info") }}
+            </div>
         </fieldset>
-        <div class="form-group">
-            {{ playerFilter.submit(class="btn btn-outline-info") }}
-        </div>
+
     </form>
 </div>
 {% endblock playerFilter %}
