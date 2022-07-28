@@ -1,4 +1,3 @@
-from urllib.parse import uses_query
 from flask import Flask
 from flaskext.mysql import MySQL
 import os
@@ -8,7 +7,7 @@ SECRET_KEY = os.urandom(32)
 app.config['SECRET_KEY'] = SECRET_KEY
 app.config['MYSQL_DATABASE_USER'] = 'root'
 app.config['MYSQL_DATABASE_PASSWORD'] = 'AL266493'
-app.config['MYSQL_DATABASE_DB'] = 'transfermark_v2'
+app.config['MYSQL_DATABASE_DB'] = 'sql_invoicing'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 
 db = MySQL(app)
@@ -31,8 +30,6 @@ create_table_query = "CREATE TABLE `Team` ("\
 cursor.execute(drop_database_query) 
 cursor.execute(create_database_query)
 cursor.execute(use_query)
-cursor.execute(create_table_query)  
-cursor.execute("INSERT INTO Team VALUES (1, 'Fenerbahçe', 'Saraçoğlu', 'İstanbul' )")
-cursor.execute("INSERT INTO Team VALUES (2, 'Fenerbahçe', 'Saraçoğlu', 'İstanbul' )")            
+cursor.execute(create_table_query)         
 cursor.connection.commit()                
 from packet import server

@@ -1,4 +1,3 @@
-import imp
 from packet import cursor
 
 class handler:
@@ -10,7 +9,8 @@ class handler:
         if('team_submit' in response):
             pass
         if('player_submit' in response):
-            self.cursor.execute( "SELECT * FROM `Team` where team_id = 1")
+            self.cursor.execute( "SELECT * FROM mytable")
             result = self.cursor.fetchall()
+            response = None
             return result
 

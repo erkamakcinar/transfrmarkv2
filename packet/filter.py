@@ -11,6 +11,10 @@ class TeamFiler(FlaskForm):
 
 class PlayerFiler(FlaskForm):
     player_name = StringField('Oyuncu İsmi')
+    player_surname = StringField('Oyuncu Soyismi')
+    player_team = StringField('Oynadığı Takım')
+    player_country = StringField('Uyruk')
+    player_age = IntegerField('Yaş')
     player_value = FloatField('Piyasa Değeri', validators=[DataRequired()])
     player_pos = SelectMultipleField('Mevki', choices= [('11', 'Tüm mevkiler'), ('1', 'Kaleci'), ('2', 'Stoper'), ('3', 'Sol Bek'), ('4', 'Sağ Bek'), ('5', 'Ön Libero'), ('6', 'Orta Saha'), ('7', 'On Numara'), ('8', 'Sağ Kanat'), ('9', 'Sol Kanat'), ('10', 'Santrafor')])
     player_submit = SubmitField('Filtrele')
