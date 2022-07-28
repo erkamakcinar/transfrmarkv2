@@ -1,4 +1,4 @@
-from packet import cursor
+from packet.backend import cursor
 
 class handler:
     def __init__(self):
@@ -9,8 +9,8 @@ class handler:
         if('team_submit' in response):
             pass
         if('player_submit' in response):
-            self.cursor.execute( "SELECT * FROM mytable")
-            result = self.cursor.fetchall()
+            #self.cursor.execute( "SELECT * FROM mytable")
+            result = response
             response = None
             return result
 

@@ -1,6 +1,7 @@
 from flask import Flask
 from flaskext.mysql import MySQL
 import os
+from packet.backend.manipulation import Reader
 
 app = Flask(__name__)
 SECRET_KEY = os.urandom(32)
@@ -11,6 +12,10 @@ app.config['MYSQL_DATABASE_DB'] = 'sql_invoicing'
 app.config['MYSQL_DATABASE_HOST'] = 'localhost'
 
 db = MySQL(app)
+
+file_paths = ["packet/db_data/cup/date.csv", "packet/db_data/cup/name.csv", "packet/db_data/human/country.csv", "packet/db_data/human/date.csv", "packet/db_data/human/name.csv", "packet/db_data/human/surname.csv", "packet/db_data/human/tc.csv", "packet/db_data/human/wage.csv", "packet/db_data/player/height.csv", "packet/db_data/player/position.csv", "packet/db_data/player/statistics.csv", "packet/db_data/player/value.csv", "packet/db_data/player/weight.csv", "packet/db_data/team/city.csv", "packet/db_data/team/name.csv","packet/db_data/team/stadium.csv"]
+
+
 
 conn = db.connect()
 cursor =conn.cursor()
@@ -27,9 +32,12 @@ create_table_query = "CREATE TABLE `Team` ("\
 
 
 
+#team = Reader(file_paths).getTeam()
+
+
 cursor.execute(drop_database_query) 
 cursor.execute(create_database_query)
 cursor.execute(use_query)
 cursor.execute(create_table_query)         
 cursor.connection.commit()                
-from packet import server
+from packet.backend import server
