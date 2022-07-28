@@ -6,9 +6,10 @@ class handler:
         self.cursor = cursor
          
     def tableBuilder(self, response):
-        if(response['submit'] == 'OyuncuBtn'):
+        print(response)
+        if('team_submit' in response):
             pass
-        if(response['submit'] == 'TakımBtn'):
+        if('player_submit' in response):
             self.cursor.execute( "SELECT * FROM `Team` where team_id = 1")
             result = self.cursor.fetchall()
             return result
