@@ -15,8 +15,6 @@ db = MySQL(app)
 
 file_paths = ["packet/db_data/cup/date.csv", "packet/db_data/cup/name.csv", "packet/db_data/human/country.csv", "packet/db_data/human/date.csv", "packet/db_data/human/name.csv", "packet/db_data/human/surname.csv", "packet/db_data/human/tc.csv", "packet/db_data/human/wage.csv", "packet/db_data/player/height.csv", "packet/db_data/player/position.csv", "packet/db_data/player/statistics.csv", "packet/db_data/player/value.csv", "packet/db_data/player/weight.csv", "packet/db_data/team/city.csv", "packet/db_data/team/name.csv","packet/db_data/team/stadium.csv"]
 
-
-
 conn = db.connect()
 cursor =conn.cursor()
 drop_database_query = "DROP DATABASE IF EXISTS `transfermark_v2`;"
@@ -40,7 +38,6 @@ create_table_istatistik = "CREATE TABLE `ISTATISTIK`("\
                             "`KupaSayisi`		    INT NOT NULL,"\
                             "PRIMARY KEY (`IstNo`)"\
                         ");"
-
 
 create_table_takim = "CREATE TABLE `TAKIM`("\
 	                    "`Isim`			        VARCHAR(40) NOT NULL,"\
@@ -71,7 +68,6 @@ create_table_teknikdirektor = "CREATE TABLE `TEKNIKDIREKTOR`("\
                                 "FOREIGN KEY (`YonettigiTakim`) REFERENCES `TAKIM`(`Isim`),"\
                                 "FOREIGN KEY (`TeknikDirektorTc`) REFERENCES `INSAN`(`Tc`)"\
                             ");"
-
 
 create_table_kupa = "CREATE TABLE `KUPA`("\
                         "`KupaId`			    INT NOT NULL AUTO_INCREMENT,"\
