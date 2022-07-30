@@ -19,25 +19,82 @@ file_paths = ["packet/db_data/cup/date.csv", "packet/db_data/cup/name.csv", "pac
 
 conn = db.connect()
 cursor =conn.cursor()
-drop_database_query = "DROP DATABASE IF EXISTS 'transfermark_v2';"
-create_database_query = "CREATE DATABASE 'transfermark_v2';"
-use_query = "USE 'transfermark_v2';"
-create_table_query = "CREATE TABLE `Team` ("\
-                    "`team_id` tinyint(4) NOT NULL AUTO_INCREMENT,"\
-                    "`team_name` varchar(50) NOT NULL,"\
-                    "`stadium_name` varchar(50),"\
-                    "`hometown` varchar(50),"\
-                    "PRIMARY KEY (`team_id`)"\
-                    ") ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;"
+drop_database_query = "DROP DATABASE IF EXISTS `transfermark_v2`;"
+create_database_query = "CREATE DATABASE `transfermark_v2`;"
+use_query = "USE `transfermark_v2`;"
+
+create_table_insan = "CREATE TABLE `INSAN` ("\
+                        "`Tc`				    VARCHAR(11) NOT NULL,"\
+                        "`Isim`			        VARCHAR(40) NOT NULL,"\
+                        "`Soyisim`	            VARCHAR(40) NOT NULL,"\
+                        "`Maas`			        DECIMAL(10,2) NOT NULL,"\
+                        "`Uyruk`			    VARCHAR(3) NOT NULL,"\
+                        "`DogumTarihi`	        DATE NOT NULL,"\
+                        "PRIMARY KEY (`Tc`)"\
+                    ");"
+
+create_table_istatistik = "CREATE TABLE `ISTATISTIK`("\
+	                        "`IstNo`			    INT NOT NULL AUTO_INCREMENT,"\
+                            "`AtilanGol`		    INT NOT NULL,"\
+                            "`YenenGol`		        INT NOT NULL,"\
+                            "`KupaSayisi`		    INT NOT NULL,"\
+                            "PRIMARY KEY (`IstNo`)"\
+                        ");"
 
 
+create_table_takim = "CREATE TABLE `TAKIM`("\
+	                    "`Isim`			        VARCHAR(40) NOT NULL,"\
+                        "`Sehir`			    VARCHAR(40) NOT NULL,"\
+                        "`Stadyum`			    VARCHAR(40) NOT NULL,"\
+                        "PRIMARY KEY (`Isim`)"\
+                    ");"
+
+create_table_oyuncu = "CREATE TABLE `OYUNCU`("\
+                        "`OyuncuTc`		        VARCHAR(11) NOT NULL,"\
+                        "`Kilo`			        DECIMAL(5,2) NOT NULL,"\
+                        "`PiyasaDegeri` 	    DECIMAL(11,2) NOT NULL,"\
+                        "`Boy`				    INT NOT NULL,"\
+                        "`Pozisyon`		        VARCHAR(3) NOT NULL,"\
+                        "`Ayak`			        VARCHAR(3) NOT NULL,"\
+                        "`IstatistikNo`	        INT NOT NULL,"\
+                        "`Takim`			    VARCHAR(40) NOT NULL,"\
+                        "PRIMARY KEY (`OyuncuTc`),"\
+                        "FOREIGN KEY (`OyuncuTc`) REFERENCES `INSAN`(`Tc`),"\
+                        "FOREIGN KEY (`IstatistikNo`) REFERENCES `ISTATISTIK`(`IstNo`),"\
+                        "FOREIGN KEY (`Takim`) REFERENCES `TAKIM`(`Isim`)"\
+                    ");"
+
+create_table_teknikdirektor = "CREATE TABLE `TEKNIKDIREKTOR`("\
+                                "`TeknikDirektorTc`	                VARCHAR(11) NOT NULL,"\
+                                "`YonettigiTakim`		            VARCHAR(40) NOT NULL,"\
+                                "PRIMARY KEY (`TeknikDirektorTc`),"\
+                                "FOREIGN KEY (`YonettigiTakim`) REFERENCES `TAKIM`(`Isim`),"\
+                                "FOREIGN KEY (`TeknikDirektorTc`) REFERENCES `INSAN`(`Tc`)"\
+                            ");"
+
+
+create_table_kupa = "CREATE TABLE `KUPA`("\
+                        "`KupaId`			    INT NOT NULL AUTO_INCREMENT,"\
+                        "`Isim`			        VARCHAR(40) NOT NULL,"\
+                        "`Yil`				    INT NOT NULL,"\
+                        "`KupaSahibi`		    VARCHAR(40) NOT NULL,"\
+                        "PRIMARY KEY (`KupaId`),"\
+                        "FOREIGN KEY (`KupaSahibi`) REFERENCES `TAKIM`(`Isim`)"\
+                    ");"
 
 #team = Reader(file_paths).getTeam()
-
 
 cursor.execute(drop_database_query) 
 cursor.execute(create_database_query)
 cursor.execute(use_query)
-#cursor.execute(create_table_query)         
+
+#table creating order is important
+cursor.execute(create_table_insan)
+cursor.execute(create_table_istatistik)
+cursor.execute(create_table_takim)
+cursor.execute(create_table_oyuncu)
+cursor.execute(create_table_teknikdirektor)
+cursor.execute(create_table_kupa)   
+
 cursor.connection.commit()                
 from packet.backend import server
