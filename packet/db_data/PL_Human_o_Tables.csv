@@ -1,0 +1,515 @@
+Tc,IsimSoyisim,Maas,Uyruk,DogumTarihi
+1,Bernd Leno,91000,England,1992-03-04
+2,Héctor Bellerín,69000,Spain,1995-03-19
+3,Kevin De Bruyne,370000,England,1991-06-28
+4,Virgil van Dijk,200000,England,1991-07-08
+5,Sokratis,115000,Greece,1988-06-09
+6,Mesut Özil,125000,England,1988-10-15
+7,Mohamed Salah,240000,Egypt,1992-06-15
+8,Granit Xhaka,94000,England,1992-09-27
+9,Henrikh Mkhitaryan,94000,Armenia,1989-01-21
+10,Harry Kane,220000,England,1993-07-28
+11,Alisson,155000,Brazil,1992-10-02
+12,David de Gea,205000,Spain,1990-11-07
+13,N'Golo Kanté,235000,England,1991-03-29
+14,Alexandre Lacazette,165000,England,1991-05-28
+15,Pierre-Emerick Aubameyang,205000,England,1989-06-18
+16,Sergio Agüero,300000,Argentina,1988-06-02
+17,Nathan Aké,58000,Netherlands,1995-02-18
+18,Paul Pogba,250000,France,1993-03-15
+19,Ederson,185000,Brazil,1993-08-17
+20,Raheem Sterling,255000,England,1994-12-08
+21,Christian Eriksen,205000,Denmark,1992-02-14
+22,Ryan Fraser,76000,England,1994-02-24
+23,Hugo Lloris,150000,England,1986-12-26
+24,Callum Wilson,81000,England,1992-02-27
+25,David Silva,265000,Spain,1986-01-08
+26,Mathew Ryan,43000,Australia,1992-04-08
+27,Sadio Mané,220000,England,1992-04-10
+28,Aymeric Laporte,195000,France,1994-05-27
+29,Bernardo Silva,210000,Portugal,1994-08-10
+30,Heung-min Son,185000,Korea,1992-07-08
+31,Fernandinho,200000,Brazil,1985-05-04
+32,Jan Vertonghen,155000,England,1987-04-24
+33,Tom Heaton,50000,England,1986-04-15
+34,Toby Alderweireld,155000,Belgium,1989-03-02
+35,Leroy Sané,195000,Germany,1996-01-11
+36,Roberto Firmino,170000,Brazil,1991-10-02
+37,César Azpilicueta,145000,Spain,1989-08-28
+38,Marcos Alonso,115000,Spain,1990-12-28
+39,David Luiz,105000,Brazil,1987-04-22
+40,Antonio Rüdiger,115000,England,1993-03-03
+41,Andreas Christensen,85000,Denmark,1996-04-10
+42,Willian,140000,Brazil,1988-08-09
+43,Pedro,140000,Spain,1987-07-28
+44,Rodri,150000,Spain,1996-06-22
+45,Olivier Giroud,140000,England,1986-09-30
+46,Fabinho,125000,Brazil,1993-10-23
+47,Andrew Robertson,125000,England,1994-03-11
+48,Luka Milivojevic,66000,Serbia,1991-04-07
+49,Wilfried Zaha,89000,Cote d'Ivoire,1992-11-10
+50,Jordan Pickford,78000,England,1994-03-07
+51,Michael Keane,80000,England,1993-01-11
+52,Jay Rodríguez,225000,England,1989-07-29
+53,Gylfi Sigurdsson,120000,Iceland,1989-09-08
+54,Kepa,92000,Spain,1994-10-03
+55,João Cancelo,150000,Portugal,1994-05-27
+56,Dele Alli,115000,England,1996-04-11
+57,Kasper Schmeichel,82000,Denmark,1986-11-05
+58,Harry Maguire,125000,England,1993-03-05
+59,Ricardo Pereira,89000,Portugal,1993-10-06
+60,Riyad Mahrez,195000,Algeria,1991-02-21
+61,Felipe Anderson,125000,Brazil,1993-04-15
+62,João Moutinho,125000,Portugal,1986-09-08
+63,Wilfred Ndidi,74000,Nigeria,1996-12-16
+64,Jamie Vardy,115000,England,1987-01-11
+65,Joe Gomez,73000,"England ",1997-05-23
+66,Georginio Wijnaldum,140000,Netherlands,1990-11-11
+67,Joel Matip,99000,Cameroon,1991-08-08
+68,Trent Alexander-Arnold,78000,England,1998-10-07
+69,Alex Oxlade-Chamberlain,90000,England,1993-08-15
+70,Jordan Henderson,115000,England,1990-06-17
+71,Ilkay Gündogan,180000,Germany,1990-10-24
+72,Kyle Walker,165000,England,1990-05-28
+73,James Milner,105000,England,1986-01-04
+74,Naby Keïta,95000,Guinea,1995-02-10
+75,John Stones,140000,England,1994-05-28
+76,Nicolás Otamendi,145000,Argentina,1988-02-12
+77,Giovani Lo Celso,105000,England,1996-04-09
+78,Benjamin Mendy,96000,England,1994-07-17
+79,Anthony Martial,140000,France,1995-12-05
+80,Nicolas Pépé,97000,England,1995-05-29
+81,Marcus Rashford,125000,England,1997-10-31
+82,Gabriel Jesus,140000,Brazil,1997-04-03
+83,Sergio Romero,85000,Argentina,1987-02-22
+84,Davinson Sánchez,93000,Colombia,1996-06-12
+85,Luke Shaw,97000,England,1995-07-12
+86,Lucas Digne,97000,England,1993-07-20
+87,Eric Bailly,105000,England,1994-04-12
+88,Victor Lindelöf,97000,Sweden,1994-07-17
+89,Nemanja Matic,115000,Serbia,1988-08-01
+90,Juan Mata,135000,Spain,1988-04-28
+91,Jesse Lingard,135000,England,1992-12-15
+92,Sébastien Haller,120000,England,1994-06-22
+93,Martin Dubravka,37000,Slovakia,1989-01-15
+94,Lucas Moura,130000,Brazil,1992-08-13
+95,Jorginho,140000,Italy,1991-12-20
+96,Rui Patrício,82000,Portugal,1988-02-15
+97,Danny Rose,90000,England,1990-07-02
+98,Erik Lamela,94000,Argentina,1992-03-04
+99,Harry Winks,82000,England,1996-02-02
+100,Moussa Sissoko,105000,England,1989-08-16
+101,Mateo Kovacic,125000,Croatia,1994-05-06
+102,Lucas Torreira,80000,Uruguay,1996-02-11
+103,Rúben Neves,89000,Portugal,1997-03-13
+104,Étienne Capoue,68000,England,1988-07-11
+105,Abdoulaye Doucouré,73000,England,1993-01-01
+106,Gerard Deulofeu,78000,Spain,1994-03-13
+107,Lukasz Fabianski,75000,Poland,1985-04-18
+108,Manuel Lanzini,88000,England,1993-02-15
+109,Diogo Jota,84000,Portugal,1996-12-04
+110,Ben Foster,36000,England,1983-04-03
+111,Xherdan Shaqiri,120000,England,1991-10-10
+112,Tanguy Ndombélé,87000,"France ",1996-12-28
+113,Dani Ceballos,82000,Spain,1996-08-07
+114,Pablo Fornals,82000,Spain,1996-02-22
+115,Kurt Zouma,85000,"France ",1994-10-27
+116,Miguel Almirón,52000,Paraguay,1994-02-10
+117,Youri Tielemans,76000,England,1997-05-07
+118,Ralf Fährmann,43000,England,1988-09-27
+119,Roberto Pereyra,78000,Argentina,1991-01-07
+120,Dejan Lovren,90000,England,1989-07-05
+121,Raúl Jiménez,99000,Mexico,1991-05-05
+122,Bernard,88000,Brazil,1992-09-08
+123,Aaron Wan-Bissaka,71000,England,1997-11-26
+124,Allan Saint-Maximin,45000,France,1997-03-12
+125,Christian Pulisic,85000,United States,1998-09-18
+126,Ruben Loftus-Cheek,89000,England,1996-01-23
+127,Ben Chilwell,65000,England,1996-12-21
+128,Wesley,61000,Brazil,1996-11-26
+129,James Ward-Prowse,53000,England,1994-11-01
+130,Alex Iwobi,72000,Nigeria,1996-05-03
+131,Jean-Philippe Gbamin,65000,England,1995-09-25
+132,Angeliño,91000,Spain,1997-01-04
+133,James Maddison,72000,England,1996-11-23
+134,Richarlison,72000,Brazil,1997-05-10
+135,Eric Dier,77000,England,1994-01-15
+136,Leandro Trossard,53000,England,1994-12-04
+137,Jonny Otto,72000,Spain,1994-03-03
+138,Jefferson Lerma,55000,Colombia,1994-10-25
+139,Ross Barkley,98000,England,1993-12-05
+140,James Tarkowski,39000,England,1992-11-19
+141,Nick Pope,32000,England,1992-04-19
+142,Michy Batshuayi,110000,England,1993-10-02
+143,Sead Kolasinac,76000,Bosnia-Herzegovina,1993-06-20
+144,Fabian Schär,43000,Switzerland,1991-12-20
+145,Fabián Balbuena,76000,Paraguay,1991-08-23
+146,Shkodran Mustafi,76000,England,1992-04-17
+147,Willy Boly,80000,"France ",1991-02-03
+148,Ben Davies,81000,Wales,1993-04-24
+149,Fred,110000,Brazil,1993-03-05
+150,Mamadou Sakho,58000,England,1990-02-13
+151,Joshua King,77000,Norway,1992-01-15
+152,Phil Jones,100000,England,1992-02-21
+153,Serge Aurier,81000,Spain,1992-12-24
+154,Jonny Evans,76000,Northern,1988-01-03
+155,Nacho Monreal,76000,Spain,1986-02-26
+156,Seamus Coleman,76000,Ireland,1988-10-11
+157,Adam Lallana,89000,England,1988-05-10
+158,Jack Wilshere,83000,England,1992-01-01
+159,Vicente Guaita,45000,Spain,1987-01-10
+160,Andrii Yarmolenko,87000,Ukraine,1989-10-23
+161,Cédric Soares,19000,Portugal,1991-08-31
+162,Ismaïla Sarr,47000,England,1998-02-25
+163,Declan Rice,49000,England,1999-01-14
+164,Issa Diop,59000,France,1997-01-09
+165,Oleksandr Zinchenko,82000,Ukraine,1996-12-15
+166,Leander Dendoncker,66000,England,1995-04-15
+167,Joelinton,41000,Brazil,1996-08-14
+168,Divock Origi,77000,Belgium,1995-04-18
+169,Yerry Mina,59000,Colombia,1994-09-23
+170,Jamaal Lascelles,37000,England,1993-11-11
+171,Ibrahim Amadou,46000,England,1993-04-06
+172,Max Meyer,48000,Germany,1995-09-18
+173,Shane Duffy,46000,Ireland,1992-01-01
+174,Florian Lejeune,41000,France,1991-05-20
+175,Lewis Dunk,46000,England,1991-11-21
+176,Victor Wanyama,77000,Kenya,1991-06-25
+177,Christian Kabasele,61000,England,1991-02-24
+178,Matt Doherty,69000,Ireland,1992-01-16
+179,Jannik Vestergaard,51000,England,1992-08-03
+180,Ryan Bertrand,53000,England,1989-08-05
+181,James Tomkins,51000,England,1989-03-29
+182,Chicharito,82000,Mexico,1988-06-01
+183,José Holebas,42000,Greece,1984-06-27
+184,Troy Deeney,69000,England,1988-06-29
+185,Danny Welbeck,72000,England,1990-11-26
+186,Ashley Barnes,44000,England,1989-10-30
+187,Ben Mee,37000,England,1989-09-21
+188,Nathaniel Clyne,77000,England,1991-04-05
+189,Michail Antonio,79000,England,1990-03-28
+190,Pascal Groß,52000,England,1991-06-15
+191,Johann Berg Gudmundsson,40000,Iceland,1990-10-27
+192,Steve Cook,61000,England,1991-04-19
+193,Andros Townsend,55000,England,1991-07-16
+194,Marcos Rojo,95000,Argentina,1990-03-20
+195,Patrick Cutrone,58000,England,1998-01-03
+196,David Brooks,44000,Wales,1997-07-08
+197,Jack Grealish,47000,England,1995-09-10
+198,Lewis Cook,52000,England,1997-02-03
+199,Scott McTominay,73000,Scotland,1996-12-08
+200,Jan Bednarek,41000,England,1996-04-12
+201,Dominic Calvert-Lewin,68000,England,1997-03-16
+202,Jesús Vallejo,55000,Spain,1997-01-05
+203,Will Hughes,52000,England,1995-04-17
+204,Emerson,68000,Italy,1994-08-03
+205,Pierre-Emile Höjbjerg,45000,Denmark,1995-08-05
+206,Nathan Redmond,50000,England,1994-03-06
+207,Sofiane Boufal,50000,Morocco,1993-09-17
+208,Conor Coady,65000,England,1993-02-25
+209,Trezeguet,52000,Egypt,1994-10-01
+210,Jonjo Shelvey,40000,England,1992-02-27
+211,Chris Wood,39000,New Zealand,1991-12-07
+212,Davy Pröpper,47000,Netherlands,1991-09-02
+213,Marco van Ginkel,87000,Netherlands,1992-12-01
+214,Djibril Sidibé,65000,England,1992-07-29
+215,Joe Hart,27000,England,1987-04-19
+216,Ashley Young,85000,England,1985-07-09
+217,Gary Cahill,47000,England,1985-12-19
+218,Theo Walcott,71000,England,1989-03-16
+219,Glenn Murray,39000,England,1983-09-25
+220,Claudio Bravo,47000,Chile,1983-04-13
+221,Morgan Schneiderlin,68000,England,1989-11-08
+222,Fabian Delph,68000,England,1989-11-21
+223,Roberto,52000,Spain,1986-02-10
+224,Angelo Ogbonna,65000,Italy,1988-05-23
+225,Danny Drinkwater,38000,England,1990-03-05
+226,Daryl Janmaat,57000,England,1989-07-22
+227,Ashley Westwood,38000,England,1990-04-01
+228,Teemu Pukki,53000,Finland,1990-03-29
+229,Cenk Tosun,80000,England,1991-06-07
+230,Romain Saïss,68000,Morocco,1990-03-26
+231,Phil Foden,52000,England,2000-05-28
+232,Moise Kean,43000,Italy,2000-02-28
+233,Kieran Tierney,52000,England,1997-06-05
+234,Tammy Abraham,67000,England,1997-10-02
+235,Filip Benkovic,43000,Croatia,1997-07-13
+236,A. Danjuma Groeneveld,49000,Netherlands,1997-01-31
+237,Isaac Hayden,29000,England,1995-03-22
+238,Angus Gunn,29000,England,1996-01-22
+239,Rob Holding,52000,England,1995-09-20
+240,Björn Engels,40000,England,1994-09-15
+241,Frédéric Guilbert,40000,England,1994-12-24
+242,Dennis Praet,63000,England,1994-05-14
+243,Víctor Camarasa,46000,Spain,1994-05-28
+244,Marvelous Nakamba,44000,England,1994-01-19
+245,Ravel Morrison,34000,Jamaica,1993-02-02
+246,Jürgen Locadia,46000,Netherlands,1993-11-07
+247,Charlie Taylor,29000,England,1993-09-18
+248,Arthur Masuaku,57000,DR Congo,1993-11-07
+249,DeAndre Yedlin,32000,United States,1993-07-09
+250,Florin Andone,48000,Romania,1993-04-11
+251,Oriol Romeu,44000,Spain,1991-09-24
+252,Alex McCarthy,38000,England,1989-12-03
+253,Danny Ings,53000,England,1992-07-23
+254,Phil Jagielka,22000,England,1982-08-17
+255,Heurelho Gomes,27000,Brazil,1981-02-15
+256,Mark Noble,66000,England,1987-05-08
+257,Robert Snodgrass,66000,England,1987-09-07
+258,Jack Cork,34000,England,1989-06-25
+259,James McArthur,48000,England,1987-10-07
+260,Adrián,32000,Spain,1987-01-03
+261,Winston Reid,60000,New Zealand,1988-07-03
+262,Sung-yong Ki,37000,Korea,1989-01-24
+263,Craig Cathcart,51000,Northern Ireland,1989-02-06
+264,Dale Stephens,44000,England,1989-12-12
+265,Marc Albrighton,69000,England,1989-11-18
+266,Patrick van Aanholt,46000,Netherlands,1990-08-29
+267,Cheikhou Kouyaté,46000,England,1989-12-21
+268,Aaron Cresswell,63000,England,1989-12-15
+269,Tom Cleverley,58000,England,1989-08-12
+270,Kiko Femenía,53000,Spain,1991-02-02
+271,Adam Smith,53000,England,1991-04-29
+272,Andre Gray,63000,England,1991-06-26
+273,Martín Montoya,42000,Spain,1991-04-14
+274,Aaron Mooy,46000,Australia,1990-09-15
+275,Robbie Brady,34000,Ireland,1992-01-14
+276,Federico Fernández,34000,England,1989-02-21
+277,Dwight Gayle,42000,England,1990-10-17
+278,José Izquierdo,48000,Colombia,1992-07-07
+279,Mason Mount,57000,England,1999-01-10
+280,Ryan Sessegnon,38000,England,2000-05-18
+281,Mattéo Guendouzi,46000,France,1999-04-14
+282,Harry Wilson,51000,England,1997-03-22
+283,Dean Henderson,20000,England,1997-03-12
+284,Diogo Dalot,54000,Portugal,1999-03-18
+285,Harvey Barnes,52000,England,1997-12-09
+286,Ainsley Maitland-Niles,41000,England,1997-08-29
+287,Tom Davies,46000,England,1998-06-30
+288,Neal Maupay,40000,England,1996-08-14
+289,Mason Holgate,49000,England,1996-10-22
+290,Yves Bissouma,36000,England,1996-08-30
+291,Emiliano Martínez,46000,Argentina,1992-09-02
+292,Calum Chambers,49000,England,1995-01-20
+293,John McGinn,42000,England,1994-10-18
+294,Demarai Gray,60000,England,1996-06-28
+295,Bernardo,33000,Brazil,1995-05-14
+296,Nathaniel Chalobah,42000,"England ",1994-12-12
+297,Paulo Gazzaniga,50000,Argentina,1992-01-02
+298,Jetro Willems,31000,England,1994-03-30
+299,Solly March,36000,England,1994-07-20
+300,L. Kalinić,38000,Croatia,1990-04-03
+301,Jonas Lössl,46000,England,1989-02-01
+302,Ciaran Clark,34000,England,1989-09-26
+303,Martin Kelly,44000,England,1990-04-27
+304,Josip Drmic,46000,Switzerland,1992-08-08
+305,Stuart Armstrong,46000,England,1992-03-30
+306,Paul Dummett,32000,England,1991-09-26
+307,Alireza Jahanbakhsh,44000,Iran,1993-08-11
+308,Yoshinori Muto,39000,Japan,1992-07-15
+309,Artur Boruc,23000,England,1980-02-20
+310,Simon Francis,49000,England,1985-02-16
+311,Wes Morgan,41000,Jamaica,1984-01-21
+312,Willy Caballero,37000,Argentina,1981-09-28
+313,Pablo Zabaleta,57000,Argentina,1985-01-16
+314,Scott Dann,42000,England,1987-02-14
+315,Leighton Baines,57000,England,1984-12-11
+316,Wayne Hennessey,34000,Wales,1987-01-24
+317,Andrew Surman,53000,"England ",1986-08-20
+318,Adrian Mariappa,49000,Jamaica,1986-10-03
+319,Andy Carroll,39000,England,1989-01-06
+320,Carlos Sánchez,57000,Colombia,1986-02-06
+321,Christian Benteke,52000,Belgium,1990-12-03
+322,Dan Gosling,55000,England,1990-02-01
+323,Oliver Norwood,34000,Northern Ireland,1991-04-12
+324,Matt Ritchie,34000,Scotland,1989-09-10
+325,James McCarthy,44000,Ireland,1990-11-12
+326,Junior Stanislas,55000,England,1989-11-26
+327,Maya Yoshida,42000,Japan,1988-08-24
+328,Craig Dawson,51000,England,1990-05-06
+329,Jordan Ayew,50000,Ghana,1991-09-11
+330,Nampalys Mendy,57000,England,1992-06-23
+331,Matthew Lowton,29000,England,1989-06-09
+332,Jeff Hendrick,32000,Ireland,1992-01-31
+333,Callum Hudson-Odoi,31000,England,2000-11-07
+334,Juan Foyth,40000,Argentina,1998-01-12
+335,Dwight McNeil,17000,England,1999-11-22
+336,Douglas Luiz,33000,Brazil,1998-05-09
+337,Hamza Choudhury,38000,England,1997-10-01
+338,Moussa Djenepo,32000,England,1998-06-15
+339,Philip Billing,43000,Denmark,1996-06-11
+340,Patrick Roberts,34000,England,1997-02-05
+341,Albian Ajeti,56000,England,1997-02-26
+342,Caglar Söyüncü,46000,Turkey,1996-05-23
+343,Oliver McBurnie,29000,England,1996-06-04
+344,Che Adams,41000,England,1996-07-13
+345,Emiliano Buendía,34000,Argentina,1996-12-25
+346,Jack Stephens,37000,England,1994-01-27
+347,Kyle Walker-Peters,49000,England,1997-04-13
+348,Jack O'Connell,26000,England,1994-03-29
+349,Anwar El Ghazi,43000,Netherlands,1995-05-03
+350,Adam Masina,43000,England,1994-01-02
+351,Ben Gibson,27000,England,1993-01-15
+352,Adam Webster,30000,England,1995-01-04
+353,Emil Krafth,26000,Sweden,1994-08-02
+354,Javier Manquillo,29000,Spain,1994-05-05
+355,Tyrone Mings,41000,England,1993-03-13
+356,John Egan,27000,England,1992-10-20
+357,Ryan Fredericks,53000,England,1992-10-10
+358,Diego Rico,45000,Spain,1993-02-23
+359,Jeffrey Schlupp,43000,England,1992-12-23
+360,Dimitri Foulquier,49000,England,1993-03-23
+361,Aaron Lennon,30000,England,1987-04-16
+362,Billy Sharp,32000,England,1986-02-05
+363,Shane Long,46000,Ireland,1987-01-22
+364,Gaëtan Bong,35000,Cameroon,1988-04-25
+365,Henri Saivet,34000,England,1990-10-26
+366,James Chester,41000,Wales,1989-01-23
+367,Leon Balogun,35000,Nigeria,1988-06-28
+368,Enda Stevens,29000,Ireland,1990-07-09
+369,Marvin Zeegelaar,47000,Netherlands,1990-08-12
+370,Conor Hourihane,47000,England,1991-02-02
+371,Timm Klose,35000,England,1988-05-09
+372,Christian Atsu,33000,Ghana,1992-01-10
+373,Reece James,31000,England,1999-12-08
+374,Axel Tuanzebe,46000,England,1997-11-14
+375,Timothy Fosu-Mensah,46000,Netherlands,1998-01-02
+376,Chris Mepham,30000,Wales,1997-11-05
+377,Kelechi Iheanacho,51000,Nigeria,1996-10-03
+378,Isaac Success,43000,Nigeria,1996-01-07
+379,Jordon Ibe,39000,England,1995-12-08
+380,Callum Robinson,26000,Ireland,1995-02-02
+381,Daniel Amartey,42000,England,1994-12-21
+382,Karl Darlow,24000,England,1990-10-08
+383,Moritz Leitner,36000,Germany,1992-12-08
+384,Tom Trybull,33000,England,1993-03-09
+385,Luke Freeman,27000,England,1992-03-22
+386,John Fleck,27000,Scotland,1991-08-24
+387,Kevin Long,26000,Ireland,1990-08-18
+388,Matej Vydra,27000,Czech Republic,1992-05-01
+389,Onel Hernández,36000,Cuba,1993-02-01
+390,Danny Ward,39000,Wales,1993-06-22
+391,Maarten Stekelenburg,26000,England,1982-09-22
+392,Christian Fuchs,49000,England,1986-04-07
+393,Jamal Lewis,6000,England,1998-01-25
+394,Charlie Daniels,41000,England,1986-09-07
+395,Tim Krul,26000,Netherlands,1988-04-03
+396,Sebastian Prödl,41000,England,1987-06-21
+397,Mario Vrancic,36000,Bosnia-Herzegovina,1989-05-23
+398,Erik Pieters,25000,England,1988-08-07
+399,Ryan Bennett,51000,England,1990-03-06
+400,Chris Basham,25000,England,1988-07-20
+401,Joel Ward,37000,England,1989-10-29
+402,Jonathan Kodjia,46000,England,1989-10-22
+403,Marco Stiepermann,37000,England,1991-02-09
+404,Ezequiel Schelotto,33000,Italy,1989-05-23
+405,Jota,46000,Spain,1991-06-16
+406,Oumar Niasse,60000,Senegal,1990-04-18
+407,Reiss Nelson,31000,England,1999-12-10
+408,Max Aarons,15000,England,2000-01-04
+409,Daniel James,46000,Wales,1997-11-10
+410,Sean Longstaff,20000,England,1997-10-30
+411,Fikayo Tomori,38000,England,1997-12-19
+412,Tudor Baluta,21000,Romania,1999-03-27
+413,Matt Targett,28000,England,1995-09-18
+414,Ben Osborn,19000,England,1994-08-05
+415,Muhamed Besic,24000,Bosnia-Herzegovina,1992-09-10
+416,Sam Byram,27000,England,1993-09-16
+417,Jairo Riedewald,27000,Netherlands,1996-09-09
+418,Christoph Zimmermann,29000,England,1993-01-12
+419,Michael Hector,53000,Jamaica,1992-07-19
+420,Kenny McLean,31000,Scotland,1992-01-08
+421,Lee Grant,30000,England,1983-01-27
+422,Scott Carson,49000,England,1985-09-03
+423,Phil Bardsley,22000,Scotland,1985-06-28
+424,David McGoldrick,26000,Ireland,1987-11-29
+425,Örjan Nyland,28000,Norway,1990-09-10
+426,Ben Godfrey,18000,England,1998-01-15
+427,Kevin Danso,20000,England,1998-09-19
+428,Bartosz Kapustka,36000,England,1996-12-23
+429,Lys Mousset,20000,France,1996-02-08
+430,Adama Traoré,19000,Spain,1996-01-25
+431,Dan Burn,25000,England,1992-05-09
+432,Alexander Tettey,25000,Norway,1986-04-04
+433,Jack Colback,22000,England,1989-10-24
+434,Eric Garcia,13000,Spain,2001-01-09
+435,Morgan Gibbs-White,20000,England,2000-01-27
+436,Rúben Vinagre,24000,Portugal,1999-04-09
+437,Konstantinos Mavropanos,24000,Greece,1997-12-11
+438,Dominic Solanke,25000,England,1997-09-14
+439,Ezri Konsa,18000,"England ",1997-10-23
+440,Jack Stacey,24000,England,1996-04-06
+441,Michael Verrips,11000,England,1996-12-03
+442,Jed Steer,21000,England,1992-09-23
+443,Connor Wickham,29000,"England ",1993-03-31
+444,Grant Hanley,22000,England,1991-11-20
+445,Leon Clarke,20000,England,1985-02-10
+446,John Ruddy,27000,England,1986-10-24
+447,Rob Elliot,15000,Ireland,1986-04-30
+448,Neil Taylor,25000,Wales,1989-02-07
+449,Henri Lansbury,29000,England,1990-10-12
+450,Ahmed Elmohamady,25000,Egypt,1987-09-09
+451,Cuco Martina,35000,Curacao,1989-09-25
+452,Philip Heise,23000,England,1991-06-20
+453,Domingos Quina,15000,England,1999-11-18
+454,James Justin,20000,England,1998-02-23
+455,Yan Valery,15000,England,1999-02-22
+456,Bailey Peacock-Farrell,10000,England,1996-10-29
+457,Simon Moore,4000,England,1990-05-19
+458,Daniel Bachmann,16000,England,1994-07-09
+459,Ayoze Pérez,5000,Spain,1993-07-29
+460,Dion Henry,4000,England,1997-09-12
+461,George Baldock,14000,England,1993-01-26
+462,Richard Stearman,14000,England,1987-08-19
+463,André Gomes,12000,Portugal,1993-07-30
+464,Lloyd Kelly,14000,England,1998-10-06
+465,Gabriel Martinelli,11000,Brazil,2001-06-18
+466,Aaron Ramsdale,11000,England,1998-05-14
+467,Pontus Dahlberg,11000,England,1999-01-21
+468,Kortney Hause,16000,England,1995-07-16
+469,Todd Cantwell,13000,England,1998-02-27
+470,Matty James,8000,England,1991-07-22
+471,Dennis Srbeny,18000,England,1994-05-05
+472,Jason Steele,14000,England,1990-08-18
+473,Kieron Freeman,12000,Wales,1992-03-21
+474,Eldin Jakupovic,19000,England,1984-10-02
+475,Michael McGovern,13000,England,1984-07-12
+476,David Button,13000,England,1989-02-27
+477,Mason Greenwood,6000,England,2001-10-01
+478,Oliver Skipp,6000,England,2000-09-16
+479,Joe Willock,12000,England,1999-08-20
+480,Gonçalo Cardoso,6000,Portugal,2000-10-21
+481,Beni Baningime,14000,England,1998-09-09
+482,Jack Simpson,15000,England,1997-01-08
+483,John Lundstram,11000,England,1994-02-18
+484,Ricky Holmes,11000,England,1987-06-20
+485,Pedro Neto,12000,Portugal,2000-03-09
+486,Matt Macey,12000,England,1994-09-09
+487,Sam McQueen,11000,England,1995-02-06
+488,David Martin,14000,England,1986-01-22
+489,Stephen Henderson,10000,England,1988-05-02
+490,Bukayo Saka,2000,England,2001-09-05
+491,George Thomas,14000,Wales,1997-03-24
+492,Keinan Davis,11000,England,1998-02-13
+493,Jordan Graham,14000,England,1995-03-05
+494,Andy Lonergan,8000,England,1983-10-19
+495,Phil Ofosu-Ayeh,15000,Ghana,1991-09-15
+496,Aaron Connolly,7000,Ireland,2000-01-28
+497,Mark Travers,6000,England,1999-05-18
+498,Kean Bryan,6000,England,1996-11-01
+499,Adam Legzdins,6000,England,1986-11-28
+500,Michael Obafemi,4000,Ireland,2000-07-06
+501,Harry Burgoyne,8000,England,1996-12-28
+502,Billy Gilmour,5000,Scotland,2001-06-11
+503,Matthew Longstaff,4000,England,2001-03-21
+504,Brandon Williams,2000,England,2000-09-03
+505,Jamie Sterry,5000,England,1995-11-21
+506,Max Kilman,8000,England,1997-05-23
+507,Bruno Jordão,8000,Portugal,1998-10-12
+508,Caoimhin Kelleher,5000,Ireland,1998-11-23
+509,Andreas Pereira,1000,Brazil,1996-01-01
+510,Tom Dele-Bashiru,5000,Nigeria,1999-09-17
+511,Steven Alzate,5000,England,1998-09-08
+512,Michel Vorm,5000,England,1983-10-20
+513,Andrew Crofts,5000,Wales,1984-05-29
+514,Ming-Yang Yang,5000,Switzerland,1995-07-11
