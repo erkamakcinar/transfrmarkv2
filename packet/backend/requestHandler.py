@@ -10,9 +10,8 @@ class handler:
             return self.de
         
         if('team_submit' in response):
-            team_name = response['team_name']
-            res = Query(team_name)
-            return res.queryBuilder()
+            res = Query(response)
+            return res.queryBuilder(True),False
 
 
         if('player_submit' in response):
