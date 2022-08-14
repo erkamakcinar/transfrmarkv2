@@ -13,8 +13,6 @@ class handler:
 
 
         if('player_submit' in response):
-
-            #self.cursor.execute( "SELECT * FROM mytable")
             result = response
             response = None
             return result
