@@ -15,8 +15,8 @@
 
 {% block teamFilter %}
 <div class="content-section">
-        <form action="\" method="post">
-        {{ teamFilter.hidden_tag() }}
+        <form action="/" method="post">
+    
         <fieldset class="form-group">
             <legend class="border-bottom mb-3">Takımları Filtrele</legend>
             <p>Filtreleme Seçenekleri</p>
@@ -43,18 +43,22 @@
             <div class="form-group row">
                 {{ teamFilter.team_submit(class="col btn btn-outline-info") }}
             </div>
+        </fieldset>
+    </form>
+    <form action="/" method="post">
+        <fieldset class="form-group">
             <div class="form-group row">
                 {{ teamFilter.team_reset(class="col btn btn-outline-info") }}
             </div>
         </fieldset>
-
     </form>
 </div>
+
 {% endblock teamFilter %}
 
 {% block playerFilter %}
 <div class="content-section">
-        <form action="\" method="post">
+        <form action="/" method="post">
         {{ playerFilter.hidden_tag() }}
         <fieldset class="form-group">
             <legend class="border-bottom mb-3">Oyuncuları Filtrele</legend>
@@ -96,11 +100,14 @@
             <div class="form-group row">
                 {{ playerFilter.player_submit(class="col btn btn-outline-info") }}
             </div>
+        </fieldset>
+    </form>
+    <form action="/" method="post">
+        <fieldset class="form-group">
             <div class="form-group row">
                 {{ playerFilter.player_reset(class="col btn btn-outline-info") }}
             </div>
         </fieldset>
-
     </form>
 </div>
 {% endblock playerFilter %}
