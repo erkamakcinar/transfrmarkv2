@@ -122,6 +122,8 @@ insert_into_teknikDirektor_query = "INSERT INTO TEKNIKDIREKTOR (TeknikDirektorTc
 
 instert_into_kupa_query = "INSERT INTO KUPA (Isim, Yil, KupaSahibi) VALUES(%s, %s, %s)"
 
+def_query = """select * from TAKIM"""
+
 cursor.execute(drop_database_query) 
 cursor.execute(create_database_query)
 cursor.execute(use_query)
@@ -141,7 +143,9 @@ cursor.executemany(insert_into_takim_query, teamData)
 cursor.executemany(insert_into_oyuncu_query, playerData)
 cursor.executemany(insert_into_teknikDirektor_query, coachData)
 cursor.executemany(instert_into_kupa_query, cupData)
+cursor.execute(def_query)
 cursor.connection.commit()
+def_table = cursor.fetchall()
 
 '''
 insert_into_insan_data = [("Erkam Akcinar", 10000.00, "TR", "1998-11-01"),
