@@ -3,6 +3,7 @@ from flaskext.mysql import MySQL
 import os
 import csv
 
+
 app = Flask(__name__)
 SECRET_KEY = os.urandom(32)
 app.config['SECRET_KEY'] = SECRET_KEY
@@ -163,3 +164,4 @@ oyuncu_data = [("Altay", "Bayındır", "NULL", "TR", "1998-04-14", 1, "1", "Fene
                 ("Serdar", "Aziz", "NULL", "TR", "1990-10-23", 7, "4", "Fenerbahçe" "NULL", 183, "STP", "SAG", 2500000, "NULL")
             ]
 '''
+from packet.backend import server
