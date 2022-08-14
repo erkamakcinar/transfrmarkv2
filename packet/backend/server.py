@@ -11,17 +11,9 @@ def home():
     table_elements = def_table
     teamFilter = TeamFiler()
     playerFilter = PlayerFiler()
-
-    if request.method == "GET":
-        return render_template("home.html", title='Best Football Site', table_elements=table_elements, teamFilter=teamFilter, playerFilter=playerFilter)
-    
+ 
     if request.method == "POST":
-        table_elements, control = handler(table_elements).tableBuilder(request.form)
-        if control:
-            print(teamFilter.meta)
-            return render_template("home.html", title='Best Football Site', table_elements=table_elements, teamFilter=teamFilter, playerFilter=playerFilter)
-
-        return render_template("home.html", title='Best Football Site', table_elements=table_elements, teamFilter=teamFilter, playerFilter=playerFilter)
+        table_elements = handler(table_elements).tableBuilder(request.form)
     
     
     return render_template("home.html", title='Best Football Site', table_elements=table_elements, teamFilter=teamFilter, playerFilter=playerFilter)
