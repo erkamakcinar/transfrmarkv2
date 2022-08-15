@@ -114,25 +114,61 @@
 
 {% block table %}
 <div class="container">
-    <table id="table" border = "3">
-        <thead>
-            <tr>
-                <th  data-field="İsim">İsim</th>
-                <th  data-field="Şehir">Şehir</th>
-                <th  data-field="Stadium İsmi">Stadium İsmi</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% if table_elements != None %}
-                {% for row in table_elements %}
+    {% if table_elements[1] == True %}
+        <table id="table" border = "3">
+            <thead>
                 <tr>
-                    <td>{{ row[0] }}</td>
-                    <td>{{ row[1] }}</td>
-                    <td>{{ row[2] }}</td>
+                    <th  data-field="İsim">İsim</th>
+                    <th  data-field="Şehir">Şehir</th>
+                    <th  data-field="Stadium İsmi">Stadium İsmi</th>
+                    <th  data-field="Kupa Sayısı">Kupa Sayısı</th>
+                    <th  data-field="Toplam Piyasa Değeri">Toplam Piyasa Değeri</th>
                 </tr>
-                {% endfor %}
-            {% endif %}
-        </tbody>
-    </table>
+            </thead>
+            <tbody>
+                {% if table_elements[0] != None %}
+                    {% for row in table_elements[0] %}
+                    <tr>
+                        <td>{{ row[0] }}</td>
+                        <td>{{ row[1] }}</td>
+                        <td>{{ row[2] }}</td>
+                        <td>{{ row[3] }}</td>
+                        <td>{{ row[4] }}</td>
+                    </tr>
+                    {% endfor %}
+                {% endif %}
+            </tbody>
+        </table>
+    {% endif %}    
+    {% if table_elements[1] == False %}
+        <table id="table" border = "3">
+            <thead>
+                <tr>
+                    <th  data-field="İsim Soyisim">İsim Soyisim</th>
+                    <th  data-field="Takım">Takım</th>
+                    <th  data-field="Uyruk">Uyruk</th>
+                    <th  data-field="Yaş">Yaş</th>
+                    <th  data-field="Piyasa Değeri">Piyasa Değeri</th>
+                    <th  data-field="Pozisyon">Pozisyon</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% if table_elements[0] != None %}
+                    {% for row in table_elements[0] %}
+                    <tr>
+                        <td>{{ row[0] }}</td>
+                        <td>{{ row[1] }}</td>
+                        <td>{{ row[2] }}</td>
+                        <td>{{ row[3] }}</td>
+                        <td>{{ row[4] }}</td>
+                        <td>{{ row[5] }}</td>
+                    </tr>
+                    {% endfor %}
+                {% endif %}
+            </tbody>
+        </table>
+    {% endif %}
 </div>
 {% endblock table %}
+
+

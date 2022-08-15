@@ -7,14 +7,13 @@ class handler:
     def tableBuilder(self, response):
         
         if('team_reset' in response or 'player_reset' in response):
-            return self.de
+            return self.de,True
         
         if('team_submit' in response):
             res = Query(response)
-            return res.queryBuilder(True),False
+            return res.queryBuilder(True),True
 
 
         if('player_submit' in response):
-            result = response
-            response = None
-            return result
+            res = Query(response)
+            return res.queryBuilder(False),False
