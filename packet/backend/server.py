@@ -9,6 +9,7 @@ from packet.backend import def_table_players, def_table_teams
 @app.route("/", methods=["POST", "GET"])
 def home():
 
+    table_elements = def_table_teams
     teamFilter = TeamFiler()
     playerFilter = PlayerFiler()
  
