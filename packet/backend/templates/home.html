@@ -67,35 +67,24 @@
                 {{ playerFilter.player_name.label(class="col-lg-5 col-md-7 form-control-label") }}
                 {{ playerFilter.player_name(class="col ml-1 form-control-sm") }}
             </div>
-
-            <div class="form-group row">
-                {{ playerFilter.player_surname.label(class="col-lg-5 col-md-7 form-control-label") }}
-                {{ playerFilter.player_surname(class="col ml-1 form-control-sm") }}
-            </div>
             
             <div class="form-group row">
                 {{ playerFilter.player_team.label(class="col-lg-5 col-md-7 form-control-label") }}
                 {{ playerFilter.player_team(class="col ml-1 form-control-sm") }}
             </div>
 
-            <div class="form-group row">
-                {{ playerFilter.player_country.label(class="col-lg-5 col-md-7 form-control-label") }}
-                {{ playerFilter.player_country(class="col ml-1 form-control-sm") }}
-            </div>
-
-            <div class="form-group row">
-                {{ playerFilter.player_age.label(class="col-lg-5 col-md-7 form-control-label") }}
-                {{ playerFilter.player_age(class="col ml-1 form-control-sm") }}
-            </div>
-
-            <div class="form-group row">
-                {{ playerFilter.player_value.label(class="col-lg-5 col-md-7 form-control-label") }}
-                {{ playerFilter.player_value(class="col ml-1 form-control-sm") }}
-            </div>
-
-            <div class="form-group row">
-                {{ playerFilter.player_pos.label(class="col-lg-5 col-md-7 form-control-label") }}
-                {{ playerFilter.player_pos(class="col ml-1 form-control-sm", rows=4, multiple=True, size=4) }}
+            <div class="row">
+                <div class="col"><p>Yaş</p></div>
+                <div class="col">
+                    <div class="form-group col">
+                        {{ playerFilter.player_age_min.label(class="col form-control-label") }}
+                        {{ playerFilter.player_age_min(class="col form-control-sm") }}
+                    </div> 
+                    <div class="form-group col">
+                        {{ playerFilter.player_age_max.label(class="col form-control-label") }}
+                        {{ playerFilter.player_age_max(class="col form-control-sm") }} 
+                    </div>
+                </div>    
             </div>
             <div class="form-group row">
                 {{ playerFilter.player_submit(class="col btn btn-outline-info") }}

@@ -122,12 +122,16 @@ insert_into_teknikDirektor_query = "INSERT INTO TEKNIKDIREKTOR (TeknikDirektorTc
 
 instert_into_kupa_query = "INSERT INTO KUPA (Isim, Yil, KupaSahibi) VALUES(%s, %s, %s)"
 
-def_query = """ SELECT t.Isim, t.Sehir, t.Stadyum, COUNT(DISTINCT k.KupaSahibi,k.KupaId) AS `kupaSayisi`, SUM(o.PiyasaDegeri) AS `piyasaDegeri`
-                FROM TAKIM `t` left outer join KUPA `k` on (t.Isim = k.KupaSahibi)
-                    inner join OYUNCU `o` on (t.Isim = o.Takim)
-                        inner join INSAN `i` on(i.Tc = o.OyuncuTc)
-                GROUP BY (t.Isim)
-            """
+def_query_teams = """ SELECT t.Isim, t.Sehir, t.Stadyum, COUNT(DISTINCT k.KupaSahibi,k.KupaId) AS `kupaSayisi`, SUM(o.PiyasaDegeri) AS `piyasaDegeri`
+                        FROM TAKIM `t` left outer join KUPA `k` on (t.Isim = k.KupaSahibi)
+                            inner join OYUNCU `o` on (t.Isim = o.Takim)
+                                inner join INSAN `i` on(i.Tc = o.OyuncuTc)
+                        GROUP BY (t.Isim)
+                    """
+
+def_query_players = """ SELECT i.IsimSoyisim, o.Takim, i.Uyruk, TIMESTAMPDIFF( YEAR, i.DogumTarihi,  CURDATE()) AS Yas, o.PiyasaDegeri, o.Pozisyon
+                        FROM OYUNCU o inner join INSAN i on (o.OyuncuTc = i.Tc)
+                    """
 
 cursor.execute(drop_database_query) 
 cursor.execute(create_database_query)
@@ -148,9 +152,12 @@ cursor.executemany(insert_into_takim_query, teamData)
 cursor.executemany(insert_into_oyuncu_query, playerData)
 cursor.executemany(insert_into_teknikDirektor_query, coachData)
 cursor.executemany(instert_into_kupa_query, cupData)
-cursor.execute(def_query)
+
+cursor.execute(def_query_players)
+def_table_players = cursor.fetchall()
+cursor.execute(def_query_teams)
+def_table_teams = cursor.fetchall()
 cursor.connection.commit()
-def_table = cursor.fetchall()
 
 '''
 insert_into_insan_data = [("Erkam Akcinar", 10000.00, "TR", "1998-11-01"),
