@@ -1,5 +1,4 @@
 
-from tkinter.messagebox import QUESTION
 from packet.backend import cursor
 
 class Query:
