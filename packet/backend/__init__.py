@@ -122,7 +122,12 @@ insert_into_teknikDirektor_query = "INSERT INTO TEKNIKDIREKTOR (TeknikDirektorTc
 
 instert_into_kupa_query = "INSERT INTO KUPA (Isim, Yil, KupaSahibi) VALUES(%s, %s, %s)"
 
-def_query = """select * from TAKIM"""
+def_query = """ SELECT t.Isim, t.Sehir, t.Stadyum, COUNT(DISTINCT k.KupaSahibi,k.KupaId) AS `kupaSayisi`, SUM(o.PiyasaDegeri) AS `piyasaDegeri`
+                FROM TAKIM `t` left outer join KUPA `k` on (t.Isim = k.KupaSahibi)
+                    inner join OYUNCU `o` on (t.Isim = o.Takim)
+                        inner join INSAN `i` on(i.Tc = o.OyuncuTc)
+                GROUP BY (t.Isim)
+            """
 
 cursor.execute(drop_database_query) 
 cursor.execute(create_database_query)

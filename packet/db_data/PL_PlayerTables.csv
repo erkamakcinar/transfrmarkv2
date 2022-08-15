@@ -1,515 +1,515 @@
 OyuncuTc,FormaNo,Takım,Kilo,Boy,Pozisyon,Ayak,PiyasaDegeri
-1,#1,"Arsenal FC ",83,189,Kaleci,Sağ,30000000
-2,#2,"Arsenal FC ",74,178,Sağ Bek,Sağ,40000000
-3,#17,"Manchester City ",70,181,10 Numara,Sağ,130000000
-4,#4,"Liverpool FC ",92,193,Stoper,Sağ,100000000
-5,#5,"Arsenal FC ",85,186,Stoper,Sağ,20000000
-6,#10,"Arsenal FC ",76,180,10 Numara,Sol,25000000
-7,#11,"Liverpool FC ",71,175,Sağ Kanat,Sol,150000000
-8,#34,"Arsenal FC ",82,186,Orta Saha,Sol,40000000
-9,#7,"Arsenal FC ",75,177,Sağ Kanat,Sağ,25000000
-10,#10,"Tottenham Hotspur ",89,188,Santrafor,Sağ,150000000
-11,#1,"Liverpool FC ",91,191,Kaleci,Sağ,80000000
-12,#1,"Manchester United ",82,189,Kaleci,Sağ,65000000
-13,#7,"Chelsea FC ",72,168,Ön Libero,Sağ,100000000
-14,#9,"Arsenal FC ",73,176,Santrafor,Sağ,70000000
-15,#14,"Arsenal FC ",80,187,Santrafor,Sağ,70000000
-16,#10,"Manchester City ",70,173,Santrafor,Sağ,65000000
-17,#5,"AFC Bournemouth ",75,180,Stoper,Sol,35000000
-18,#6,"Manchester United ",84,191,Orta Saha,Sağ,100000000
-19,#31,"Manchester City ",86,188,Kaleci,Sol,70000000
-20,#7,"Manchester City ",69,170,Sağ Kanat,Sağ,140000000
-21,#23,"Tottenham Hotspur ",76,182,10 Numara,Sağ,100000000
-22,#24,"AFC Bournemouth ",70,163,Sol Kanat,Sağ,30000000
-23,#1,"Tottenham Hotspur ",82,188,Kaleci,Sol,25000000
-24,#13,"AFC Bournemouth ",66,180,Santrafor,Sağ,30000000
-25,#21,"Manchester City ",67,170,10 Numara,Sol,20000000
-26,#1,"Brighton & Hove Albion ",82,184,Kaleci,Sağ,10000000
-27,#10,"Liverpool FC ",69,174,Sol Kanat,Sağ,120000000
-28,#14,"Manchester City ",85,191,Stoper,Sol,75000000
-29,#20,"Manchester City ",64,173,Sağ Kanat,Sol,100000000
-30,#7,"Tottenham Hotspur ",78,184,Santrafor,Sağ,80000000
-31,#25,"Manchester City ",67,179,Ön Libero,Sağ,12000000
-32,#5,"Tottenham Hotspur ",86,189,Stoper,Sol,22000000
-33,#1,"Aston Villa ",92,188,Kaleci,Sağ,6000000
-34,#4,"Tottenham Hotspur ",81,186,Stoper,Sağ,40000000
-35,#19,"Manchester City ",75,184,Sol Kanat,Sol,100000000
-36,#9,"Liverpool FC ",76,181,Santrafor,Sağ,80000000
-37,#28,"Chelsea FC ",76,178,Sağ Bek,Sağ,35000000
-38,#3,"Chelsea FC ",87,188,Sol Bek,Sol,32000000
-39,#23,"Arsenal FC ",86,189,Stoper,Sağ,20000000
-40,#2,"Chelsea FC ",85,190,Stoper,Sağ,50000000
-41,#4,"Chelsea FC ",81,188,Stoper,Sağ,35000000
-42,#10,"Chelsea FC ",78,175,Sağ Kanat,Sağ,35000000
-43,#11,"Chelsea FC ",65,167,Sağ Kanat,Sağ,20000000
-44,#16,"Manchester City ",82,191,Ön Libero,Sağ,80000000
-45,#18,"Chelsea FC ",92,193,Santrafor,Sol,12000000
-46,#3,"Liverpool FC ",78,188,Ön Libero,Sağ,50000000
-47,#26,"Liverpool FC ",64,178,Sol Bek,Sol,60000000
-48,#4,"Crystal Palace ",80,186,Ön Libero,Sağ,20000000
-49,#11,"Crystal Palace ",66,180,Santrafor,Sağ,55000000
-50,#1,"Everton FC ",77,185,Kaleci,Sol,40000000
-51,#5,"Everton FC ",82,188,Stoper,Sağ,30000000
-52,#19,"Burnley FC ",75,185,10 Numara,Sol,10000000
-53,#10,"Everton FC ",77,186,10 Numara,Sağ,35000000
-54,#1,"Chelsea FC ",85,186,Kaleci,Sağ,60000000
-55,#27,"Manchester City ",74,182,Sağ Bek,Sağ,55000000
-56,#20,"Tottenham Hotspur ",80,188,10 Numara,Sağ,90000000
-57,#1,"Leicester City ",89,189,Kaleci,Sağ,12000000
-58,#5,"Manchester United ",100,194,Stoper,Sağ,70000000
-59,#21,"Leicester City ",70,175,Sağ Bek,Sağ,30000000
-60,#26,"Manchester City ",67,179,Sağ Kanat,Sol,60000000
-61,#8,"West Ham United ",70,175,Sol Kanat,Sağ,45000000
-62,#28,"Wolverhampton Wanderers ",61,170,Orta Saha,Sağ,10000000
-63,#25,"Leicester City ",74,183,Ön Libero,Sağ,35000000
-64,#9,"Leicester City ",74,179,Santrafor,Sağ,20000000
-65,#12,"Liverpool FC ",77,188,Stoper,Sağ,35000000
-66,#5,"Liverpool FC ",69,175,Orta Saha,Sağ,50000000
-67,#32,"Liverpool FC ",90,195,Stoper,Sağ,35000000
-68,#66,"Liverpool FC ",69,180,Sağ Bek,Sağ,80000000
-69,#15,"Liverpool FC ",70,175,Orta Saha,Sağ,35000000
-70,#14,"Liverpool FC ",80,187,Ön Libero,Sağ,35000000
-71,#8,"Manchester City ",80,180,Orta Saha,Sağ,50000000
-72,#2,"Manchester City ",70,183,Sağ Bek,Sağ,50000000
-73,#7,"Liverpool FC ",70,175,Orta Saha,Sağ,15000000
-74,#8,"Liverpool FC ",64,172,Orta Saha,Sağ,50000000
-75,#5,"Manchester City ",70,188,Stoper,Sağ,60000000
-76,#30,"Manchester City ",81,183,Stoper,Sağ,25000000
-77,#18,"Tottenham Hotspur ",68,177,Orta Saha,Sol,50000000
-78,#22,"Manchester City ",85,185,Sol Bek,Sol,35000000
-79,#9,"Manchester United ",76,183,Sol Kanat,Sağ,60000000
-80,#19,"Arsenal FC ",73,183,Sağ Kanat,Sol,75000000
-81,#10,"Manchester United ",70,185,Santrafor,Sağ,80000000
-82,#9,"Manchester City ",73,175,Santrafor,Sağ,70000000
-83,#22,"Manchester United ",86,192,Kaleci,Sağ,3500000
-84,#6,"Tottenham Hotspur ",79,187,Stoper,Sağ,55000000
-85,#23,"Manchester United ",75,181,Sol Bek,Sol,30000000
-86,#12,"Everton FC ",74,178,Sol Bek,Sol,30000000
-87,#3,"Manchester United ",77,187,Stoper,Sağ,25000000
-88,#2,"Manchester United ",80,187,Stoper,Sağ,35000000
-89,#31,"Manchester United ",85,194,Ön Libero,Sol,25000000
-90,#8,"Manchester United ",63,170,10 Numara,Sol,20000000
-91,#14,"Manchester United ",62,174,10 Numara,Sağ,40000000
-92,#22,"West Ham United ",82,190,Santrafor,Sağ,45000000
-93,#1,"Newcastle United ",80,191,Kaleci,Sağ,7000000
-94,#27,"Tottenham Hotspur ",70,172,Santrafor,Sağ,40000000
-95,#5,"Chelsea FC ",67,180,Orta Saha,Sağ,65000000
-96,#11,"Wolverhampton Wanderers ",84,190,Kaleci,Sol,20000000
-97,#3,"Tottenham Hotspur ",76,173,Sol Bek,Sol,25000000
-98,#11,"Tottenham Hotspur ",80,184,Sağ Kanat,Sol,22000000
-99,#8,"Tottenham Hotspur ",74,178,Orta Saha,Sağ,40000000
-100,#17,"Tottenham Hotspur ",91,187,Orta Saha,Sağ,25000000
-101,#17,"Chelsea FC ",78,177,Orta Saha,Sağ,35000000
-102,#11,"Arsenal FC ",64,166,Ön Libero,Sağ,55000000
-103,#8,"Wolverhampton Wanderers ",80,180,Orta Saha,Sağ,50000000
-104,#29,"Watford FC ",87,189,Ön Libero,Sağ,8000000
-105,#16,"Watford FC ",76,183,Ön Libero,Sağ,25000000
-106,#7,"Watford FC ",73,177,Santrafor,Sağ,25000000
-107,#1,"West Ham United ",83,190,Kaleci,Sağ,5000000
-108,#10,"West Ham United ",59,167,10 Numara,Sağ,20000000
-109,#18,"Wolverhampton Wanderers ",73,178,Santrafor,Sağ,35000000
-110,#26,"Watford FC ",90,193,Kaleci,Sol,3000000
-111,#23,"Liverpool FC ",72,169,Sağ Kanat,Sol,25000000
-112,#28,"Tottenham Hotspur ",76,181,Orta Saha,Sağ,65000000
-113,#8,"Arsenal FC ",70,179,Orta Saha,Sağ,45000000
-114,#18,"West Ham United ",67,178,10 Numara,Sağ,25000000
-115,#15,"Chelsea FC ",96,190,Stoper,Sağ,25000000
-116,#24,"Newcastle United ",63,174,Sol Kanat,Sol,20000000
-117,#8,"Leicester City ",72,176,Orta Saha,Sağ,45000000
-118,#21,"Norwich City ",98,197,Kaleci,Sağ,4000000
-119,#37,"Watford FC ",77,182,Sol Kanat,Sağ,13000000
-120,#6,"Liverpool FC ",84,188,Stoper,Sağ,20000000
-121,#9,"Wolverhampton Wanderers ",81,188,Santrafor,Sağ,35000000
-122,#20,"Everton FC ",60,164,Sol Kanat,Sağ,20000000
-123,#29,"Manchester United ",72,183,Sağ Bek,Sağ,40000000
-124,#10,"Newcastle United ",67,173,Sağ Kanat,Sağ,25000000
-125,#22,"Chelsea FC ",69,172,Sol Kanat,Sağ,60000000
-126,#12,"Chelsea FC ",88,191,Orta Saha,Sağ,30000000
-127,#3,"Leicester City ",77,178,Sol Bek,Sol,35000000
-128,#9,"Aston Villa ",94,191,Santrafor,Sağ,20000000
-129,#16,"Southampton FC ",66,177,Orta Saha,Sağ,18000000
-130,#17,"Everton FC ",75,183,Sol Kanat,Sağ,32000000
-131,#25,"Everton FC ",83,186,Ön Libero,Sağ,28000000
-132,#12,"Manchester City ",69,175,Sol Bek,Sol,16000000
-133,#10,"Leicester City ",73,175,10 Numara,Sağ,45000000
-134,#7,"Everton FC ",71,179,Sağ Kanat,Sağ,50000000
-135,#15,"Tottenham Hotspur ",90,188,Ön Libero,Sağ,30000000
-136,#11,"Brighton & Hove Albion ",67,172,Sol Kanat,Sağ,16000000
-137,#19,"Wolverhampton Wanderers ",70,175,Sol Bek,Sağ,20000000
-138,#8,"AFC Bournemouth ",70,179,Ön Libero,Sağ,25000000
-139,#8,"Chelsea FC ",87,185,10 Numara,Sağ,30000000
-140,#5,"Burnley FC ",81,185,Stoper,Sağ,18000000
-141,#1,"Burnley FC ",76,197,Kaleci,Sağ,10000000
-142,#23,"Chelsea FC ",88,184,Santrafor,Sağ,25000000
-143,#31,"Arsenal FC ",85,183,Sol Bek,Sol,20000000
-144,#5,"Newcastle United ",84,186,Stoper,Sağ,12000000
-145,#4,"West Ham United ",85,188,Stoper,Sağ,12000000
-146,#20,"Arsenal FC ",82,184,Stoper,Sağ,18000000
-147,#15,"Wolverhampton Wanderers ",97,195,Stoper,Sağ,15000000
-148,#33,"Tottenham Hotspur ",76,181,Sol Bek,Sol,25000000
-149,#17,"Manchester United ",64,169,Orta Saha,Sol,25000000
-150,#12,"Crystal Palace ",83,187,Stoper,Sol,15000000
-151,#7,"AFC Bournemouth ",82,181,Santrafor,Sağ,20000000
-152,#4,"Manchester United ",71,185,Stoper,Sağ,15000000
-153,#24,"Tottenham Hotspur ",76,176,Sağ Bek,Sağ,15000000
-154,#6,"Leicester City ",77,188,Stoper,Sağ,12000000
-155,#18,"Arsenal FC ",77,180,Sol Bek,Sol,8000000
-156,#23,"Everton FC ",77,177,Sağ Bek,Sağ,15000000
-157,#20,"Liverpool FC ",73,172,Orta Saha,Sağ,15000000
-158,#19,"West Ham United ",68,172,Orta Saha,Sol,10000000
-159,#31,"Crystal Palace ",80,190,Kaleci,Sağ,5000000
-160,#7,"West Ham United ",83,190,Sağ Kanat,Sol,20000000
-161,#2,"Southampton FC ",82,171,Santrafor,Sağ,12000000
-162,#23,"Watford FC ",76,185,Sağ Kanat,Sağ,30000000
-163,#41,"West Ham United ",80,185,Ön Libero,Sağ,50000000
-164,#23,"West Ham United ",92,194,Stoper,Sağ,35000000
-165,#11,"Manchester City ",64,175,Sol Bek,Sol,30000000
-166,#32,"Wolverhampton Wanderers ",88,188,Orta Saha,Sağ,25000000
-167,#9,"Newcastle United ",81,186,Santrafor,Sağ,35000000
-168,#27,"Liverpool FC ",75,185,Santrafor,Sağ,20000000
-169,#13,"Everton FC ",94,195,Stoper,Sağ,25000000
-170,#6,"Newcastle United ",89,188,Stoper,Sağ,18000000
-171,#24,"Norwich City ",81,183,Ön Libero,Sağ,7000000
-172,#7,"Crystal Palace ",68,173,Orta Saha,Sağ,15000000
-173,#4,"Brighton & Hove Albion ",76,193,Stoper,Sağ,12000000
-174,#20,"Newcastle United ",89,190,Stoper,Sağ,8000000
-175,#5,"Brighton & Hove Albion ",88,192,Stoper,Sağ,20000000
-176,#12,"Tottenham Hotspur ",87,184,Ön Libero,Sağ,15000000
-177,#27,"Watford FC ",84,187,Stoper,Sağ,8000000
-178,#2,"Wolverhampton Wanderers ",87,186,Sağ Bek,Sağ,15000000
-179,#4,"Southampton FC ",98,199,Stoper,Sağ,20000000
-180,#21,"Southampton FC ",80,179,Sol Bek,Sol,15000000
-181,#5,"Crystal Palace ",74,192,Stoper,Sağ,6000000
-182,#9,"West Ham United ",73,175,Santrafor,Sağ,12000000
-183,#25,"Watford FC ",81,184,Sol Bek,Sol,2000000
-184,#9,"Watford FC ",90,184,Santrafor,Sağ,10000000
-185,#10,"Watford FC ",73,185,Santrafor,Sağ,12000000
-186,#10,"Burnley FC ",84,186,Santrafor,Sağ,10000000
-187,#6,"Burnley FC ",82,180,Stoper,Sol,10000000
-188,#2,"Liverpool FC ",67,175,Sağ Bek,Sağ,12000000
-189,#30,"West Ham United ",82,180,Sağ Kanat,Sağ,15000000
-190,#13,"Brighton & Hove Albion ",78,181,Orta Saha,Sağ,10000000
-191,#7,"Burnley FC ",77,186,Sağ Kanat,Sol,10000000
-192,#3,"AFC Bournemouth ",82,185,Stoper,Sağ,10000000
-193,#10,"Crystal Palace ",73,181,Sağ Kanat,Sol,15000000
-194,#16,"Manchester United ",85,186,Stoper,Sol,10000000
-195,#10,"Wolverhampton Wanderers ",78,183,Santrafor,Sağ,25000000
-196,#20,"AFC Bournemouth ",62,173,Sağ Kanat,Sol,30000000
-197,#10,"Aston Villa ",68,175,10 Numara,Sağ,25000000
-198,#16,"AFC Bournemouth ",71,175,Orta Saha,Sağ,20000000
-199,#39,"Manchester United ",88,190,Ön Libero,Sağ,20000000
-200,#35,"Southampton FC ",77,189,Stoper,Sağ,15000000
-201,#9,"Everton FC ",71,187,Santrafor,Sağ,20000000
-202,#4,"Wolverhampton Wanderers ",79,184,Stoper,Sağ,10000000
-203,#19,"Watford FC ",74,185,Sağ Kanat,Sol,18000000
-204,#33,"Chelsea FC ",77,175,Sol Bek,Sol,25000000
-205,#23,"Southampton FC ",84,185,Orta Saha,Sağ,15000000
-206,#22,"Southampton FC ",69,173,Sol Kanat,Sağ,20000000
-207,#19,"Southampton FC ",67,175,Sol Kanat,Sağ,12000000
-208,#16,"Wolverhampton Wanderers ",80,185,Stoper,Sağ,15000000
-209,#17,"Aston Villa ",78,179,Sol Kanat,Sağ,8000000
-210,#8,"Newcastle United ",80,184,Orta Saha,Sağ,15000000
-211,#9,"Burnley FC ",92,191,Santrafor,Sağ,18000000
-212,#24,"Brighton & Hove Albion ",79,185,Orta Saha,Sağ,15000000
-213,#42,"Chelsea FC ",82,186,Orta Saha,Sağ,10000000
-214,#19,"Everton FC ",71,182,Sağ Bek,Sağ,12000000
-215,#20,"Burnley FC ",91,196,Kaleci,Sağ,4000000
-216,#18,"Manchester United ",65,176,Sağ Bek,Sağ,5000000
-217,#24,"Crystal Palace ",88,193,Stoper,Sağ,6000000
-218,#11,"Everton FC ",68,175,Sağ Kanat,Sağ,15000000
-219,#17,"Brighton & Hove Albion ",80,186,Santrafor,Sağ,3000000
-220,#1,"Manchester City ",80,184,Kaleci,Sağ,2500000
-221,#18,"Everton FC ",75,186,Ön Libero,Sağ,15000000
-222,#8,"Everton FC ",78,174,Sol Bek,Sol,15000000
-223,#13,"West Ham United ",94,192,Kaleci,Sağ,1500000
-224,#21,"West Ham United ",86,191,Stoper,Sol,8000000
-225,#8,"Burnley FC ",81,177,Orta Saha,Sağ,8000000
-226,#2,"Watford FC ",80,185,Sağ Bek,Sağ,6000000
-227,#18,"Burnley FC ",73,174,Orta Saha,Sağ,7000000
-228,#22,"Norwich City ",80,180,Santrafor,Sağ,9000000
-229,#14,"Everton FC ",78,183,Santrafor,Sağ,15000000
-230,#27,"Wolverhampton Wanderers ",84,188,Ön Libero,Sol,5000000
-231,#47,"Manchester City ",69,171,10 Numara,Sol,30000000
-232,#27,"Everton FC ",79,183,Santrafor,Sağ,40000000
-233,#3,"Arsenal FC ",78,178,Sol Bek,Sol,25000000
-234,#9,"Chelsea FC ",80,191,Santrafor,Sağ,32000000
-235,#16,"Leicester City ",91,194,Stoper,Sağ,11000000
-236,#14,"AFC Bournemouth ",80,178,Sol Kanat,Sağ,12000000
-237,#14,"Newcastle United ",79,186,Ön Libero,Sağ,10000000
-238,#28,"Southampton FC ",77,196,Kaleci,Sağ,10000000
-239,#16,"Arsenal FC ",75,189,Stoper,Sağ,12000000
-240,#22,"Aston Villa ",83,194,Stoper,Sağ,10000000
-241,#24,"Aston Villa ",70,178,Sağ Bek,Sağ,6000000
-242,#26,"Leicester City ",78,181,Orta Saha,Sağ,24000000
-243,#23,"Crystal Palace ",76,183,Orta Saha,Sağ,10000000
-244,#11,"Aston Villa ",76,177,Ön Libero,Sol,8000000
-245,#14,"Sheffield United ",71,175,10 Numara,Sağ,1000000
-246,#9,"Brighton & Hove Albion ",87,185,Santrafor,Sağ,10000000
-247,#3,"Burnley FC ",70,176,Sol Bek,Sol,7000000
-248,#26,"West Ham United ",70,179,Sol Bek,Sol,10000000
-249,#22,"Newcastle United ",75,173,Sağ Bek,Sağ,8000000
-250,#10,"Brighton & Hove Albion ",78,180,Santrafor,Sağ,4500000
-251,#14,"Southampton FC ",83,183,Ön Libero,Sağ,10000000
-252,#1,"Southampton FC ",79,193,Kaleci,Sağ,5000000
-253,#9,"Southampton FC ",73,178,Santrafor,Sağ,15000000
-254,#15,"Sheffield United ",87,180,Stoper,Sağ,1000000
-255,#1,"Watford FC ",95,191,Kaleci,Sağ,1000000
-256,#16,"West Ham United ",76,180,Orta Saha,Sağ,7000000
-257,#11,"West Ham United ",82,182,Sağ Kanat,Sol,7000000
-258,#4,"Burnley FC ",75,185,Orta Saha,Sağ,15000000
-259,#18,"Crystal Palace ",66,178,Orta Saha,Sağ,7000000
-260,#13,"Liverpool FC ",73,190,Santrafor,Sağ,5000000
-261,#2,"West Ham United ",87,191,Stoper,Sağ,5000000
-262,#4,"Newcastle United ",75,189,Orta Saha,Sağ,6000000
-263,#15,"Watford FC ",83,189,Stoper,Sağ,5000000
-264,#6,"Brighton & Hove Albion ",78,185,Orta Saha,Sağ,6000000
-265,#11,"Leicester City ",74,175,Sağ Kanat,Sağ,10000000
-266,#3,"Crystal Palace ",67,176,Sol Bek,Sol,10000000
-267,#8,"Crystal Palace ",83,189,Ön Libero,Sağ,10000000
-268,#3,"West Ham United ",66,170,Sol Bek,Sol,8000000
-269,#8,"Watford FC ",67,175,Orta Saha,Sağ,7000000
-270,#21,"Watford FC ",61,171,Sağ Bek,Sağ,6000000
-271,#15,"AFC Bournemouth ",78,174,Sağ Bek,Sağ,7000000
-272,#18,"Watford FC ",78,178,Santrafor,Sağ,15000000
-273,#22,"Brighton & Hove Albion ",73,175,Sağ Bek,Sağ,8000000
-274,#18,"Brighton & Hove Albion ",72,179,Orta Saha,Sağ,14000000
-275,#12,"Burnley FC ",77,176,Sol Kanat,Sol,8000000
-276,#18,"Newcastle United ",83,190,Stoper,Sağ,7000000
-277,#12,"Newcastle United ",78,177,Santrafor,Sağ,15000000
-278,#19,"Brighton & Hove Albion ",75,171,Sol Kanat,Sağ,10000000
-279,#19,"Chelsea FC ",64,178,10 Numara,Sağ,35000000
-280,#19,"Tottenham Hotspur ",71,178,Sol Kanat,Sol,35000000
-281,#29,"Arsenal FC ",68,184,Orta Saha,Sağ,45000000
-282,#22,"AFC Bournemouth ",70,173,Sağ Kanat,Sol,18000000
-283,#1,"Sheffield United ",85,188,Kaleci,Sağ,7000000
-284,#20,"Manchester United ",76,183,Sağ Bek,Sağ,20000000
-285,#15,"Leicester City ",66,180,Sol Kanat,Sağ,12000000
-286,#15,"Arsenal FC ",71,180,Sağ Bek,Sağ,18000000
-287,#26,"Everton FC ",70,180,Orta Saha,Sağ,15000000
-288,#7,"Brighton & Hove Albion ",69,173,Santrafor,Sağ,18000000
-289,#2,"Everton FC ",75,187,Sağ Bek,Sağ,7000000
-290,#8,"Brighton & Hove Albion ",80,182,Orta Saha,Sağ,15000000
-291,#26,"Arsenal FC ",85,190,Kaleci,Sağ,3500000
-292,#21,"Arsenal FC ",73,183,Ön Libero,Sağ,14000000
-293,#7,"Aston Villa ",68,178,Orta Saha,Sol,6500000
-294,#7,"Leicester City ",74,180,Sol Kanat,Sağ,20000000
-295,#30,"Brighton & Hove Albion ",76,186,Sol Bek,Sol,9000000
-296,#14,"Watford FC ",76,185,Ön Libero,Sağ,7000000
-297,#22,"Tottenham Hotspur ",90,195,Kaleci,Sağ,2000000
-298,#15,"Newcastle United ",82,169,Sol Bek,Sol,5000000
-299,#20,"Brighton & Hove Albion ",77,180,Sol Kanat,Sol,8000000
-300,#28,"Aston Villa ",99,201,Kaleci,Sol,4000000
-301,#49,"Everton FC ",88,195,Kaleci,Sağ,5000000
-302,#2,"Newcastle United ",88,188,Stoper,Sol,6000000
-303,#34,"Crystal Palace ",77,191,Stoper,Sağ,3000000
-304,#20,"Norwich City ",81,184,Santrafor,Sağ,3000000
-305,#17,"Southampton FC ",75,183,10 Numara,Sağ,8000000
-306,#3,"Newcastle United ",82,183,Stoper,Sol,7000000
-307,#16,"Brighton & Hove Albion ",78,180,Sağ Kanat,Sağ,12000000
-308,#13,"Newcastle United ",72,178,Santrafor,Sağ,9000000
-309,#1,"AFC Bournemouth ",87,193,Kaleci,Sağ,1000000
-310,#2,"AFC Bournemouth ",90,191,Stoper,Sağ,2000000
-311,#5,"Leicester City ",101,185,Stoper,Sağ,2000000
-312,#13,"Chelsea FC ",81,186,Kaleci,Sağ,1000000
-313,#5,"West Ham United ",74,176,Sağ Bek,Sağ,2000000
-314,#6,"Crystal Palace ",78,194,Stoper,Sağ,4000000
-315,#3,"Everton FC ",70,170,Sol Bek,Sol,3500000
-316,#13,"Crystal Palace ",90,197,Kaleci,Sağ,5000000
-317,#6,"AFC Bournemouth ",73,178,Orta Saha,Sol,2500000
-318,#6,"Watford FC ",79,179,Stoper,Sağ,3000000
-319,#7,"Newcastle United ",79,193,Santrafor,Sol,6000000
-320,#15,"West Ham United ",82,182,Ön Libero,Sağ,1500000
-321,#17,"Crystal Palace ",83,190,Santrafor,Sağ,15000000
-322,#4,"AFC Bournemouth ",79,180,Orta Saha,Sağ,3500000
-323,#16,"Sheffield United ",69,175,Orta Saha,Sağ,5000000
-324,#11,"Newcastle United ",76,173,Sol Bek,Sol,12000000
-325,#22,"Crystal Palace ",72,180,Ön Libero,Sağ,5000000
-326,#19,"AFC Bournemouth ",76,183,Sol Kanat,Sağ,3500000
-327,#3,"Southampton FC ",78,189,Stoper,Sağ,7000000
-328,#4,"Watford FC ",82,188,Stoper,Sağ,6000000
-329,#9,"Crystal Palace ",81,182,Santrafor,Sağ,8000000
-330,#24,"Leicester City ",73,167,Ön Libero,Sağ,8000000
-331,#2,"Burnley FC ",78,180,Sağ Bek,Sağ,5000000
-332,#13,"Burnley FC ",84,185,Sağ Kanat,Sağ,10000000
-333,#20,"Chelsea FC ",75,177,Sağ Kanat,Sağ,35000000
-334,#21,"Tottenham Hotspur ",69,187,Stoper,Sağ,15000000
-335,#11,"Burnley FC ",68,183,Sol Kanat,Sol,15000000
-336,#6,"Aston Villa ",70,178,Orta Saha,Sağ,10000000
-337,#20,"Leicester City ",64,178,Ön Libero,Sağ,10000000
-338,#12,"Southampton FC ",65,177,Sol Kanat,Sağ,12000000
-339,#29,"AFC Bournemouth ",80,198,Orta Saha,Sol,15000000
-340,#7,"Norwich City ",66,167,Sağ Kanat,Sol,5000000
-341,#27,"West Ham United ",78,183,Santrafor,Sağ,7000000
-342,#4,"Leicester City ",82,187,Stoper,Sağ,20000000
-343,#9,"Sheffield United ",77,188,Santrafor,Sağ,12000000
-344,#10,"Southampton FC ",66,179,Santrafor,Sağ,12000000
-345,#17,"Norwich City ",65,172,Sağ Kanat,Sağ,18000000
-346,#5,"Southampton FC ",75,185,Stoper,Sağ,8000000
-347,#16,"Tottenham Hotspur ",64,173,Sağ Bek,Sağ,10000000
-348,#5,"Sheffield United ",85,191,Stoper,Sol,6500000
-349,#21,"Aston Villa ",90,189,Sol Kanat,Sağ,7500000
-350,#11,"Watford FC ",87,191,Sol Bek,Sol,5000000
-351,#14,"Burnley FC ",78,185,Stoper,Sol,10000000
-352,#15,"Brighton & Hove Albion ",75,190,Stoper,Sağ,15000000
-353,#17,"Newcastle United ",72,184,Sağ Bek,Sağ,5000000
-354,#19,"Newcastle United ",76,178,Sağ Bek,Sağ,5000000
-355,#40,"Aston Villa ",77,195,Stoper,Sol,18000000
-356,#12,"Sheffield United ",75,185,Stoper,Sağ,7000000
-357,#24,"West Ham United ",74,181,Sağ Bek,Sağ,7000000
-358,#21,"AFC Bournemouth ",76,183,Sol Bek,Sol,7000000
-359,#15,"Crystal Palace ",72,178,Sol Kanat,Sol,10000000
-360,#36,"Watford FC ",78,183,Sağ Kanat,Sağ,3500000
-361,#25,"Burnley FC ",63,165,Sağ Kanat,Sağ,5000000
-362,#10,"Sheffield United ",70,175,Santrafor,Sağ,2500000
-363,#7,"Southampton FC ",70,180,Santrafor,Sağ,5000000
-364,#3,"Brighton & Hove Albion ",74,183,Sol Bek,Sol,2000000
-365,#28,"Newcastle United ",76,175,10 Numara,Sağ,1000000
-366,#5,"Aston Villa ",79,177,Stoper,Sağ,8000000
-367,#14,"Brighton & Hove Albion ",88,190,Stoper,Sağ,2000000
-368,#3,"Sheffield United ",78,183,Sol Bek,Sol,3500000
-369,#32,"Watford FC ",82,186,Sol Bek,Sol,2500000
-370,#14,"Aston Villa ",70,181,Orta Saha,Sol,6500000
-371,#15,"Norwich City ",87,195,Stoper,Sağ,3000000
-372,#30,"Newcastle United ",65,165,Sol Kanat,Sol,6000000
-373,#24,"Chelsea FC ",82,182,Sağ Bek,Sağ,7000000
-374,#38,"Manchester United ",72,184,Stoper,Sağ,7000000
-375,#24,"Manchester United ",78,190,Sağ Bek,Sağ,7000000
-376,#33,"AFC Bournemouth ",75,191,Stoper,Sağ,13000000
-377,#14,"Leicester City ",80,185,Santrafor,Sol,12000000
-378,#22,"Watford FC ",90,182,Santrafor,Sağ,5000000
-379,#10,"AFC Bournemouth ",81,176,Sağ Kanat,Sağ,8000000
-380,#11,"Sheffield United ",75,178,Santrafor,Sağ,7000000
-381,#18,"Leicester City ",79,186,Sağ Bek,Sağ,7000000
-382,#26,"Newcastle United ",78,190,Kaleci,Sağ,3500000
-383,#10,"Norwich City ",68,174,Orta Saha,Sağ,3000000
-384,#19,"Norwich City ",72,181,Ön Libero,Sağ,4000000
-385,#8,"Sheffield United ",73,176,10 Numara,Sol,5000000
-386,#4,"Sheffield United ",72,169,Orta Saha,Sol,5000000
-387,#28,"Burnley FC ",82,188,Stoper,Sağ,2500000
-388,#27,"Burnley FC ",71,180,10 Numara,Sağ,8000000
-389,#11,"Norwich City ",76,172,Sol Kanat,Sağ,4000000
-390,#12,"Leicester City ",88,191,Kaleci,Sağ,8000000
-391,#22,"Everton FC ",92,197,Kaleci,Sağ,1000000
-392,#28,"Leicester City ",89,187,Sol Bek,Sol,3000000
-393,#12,"Norwich City ",85,178,Kaleci,Sağ,9000000
-394,#11,"AFC Bournemouth ",75,178,Sol Bek,Sol,3000000
-395,#1,"Norwich City ",74,193,Kaleci,Sol,4000000
-396,#5,"Watford FC ",97,194,Stoper,Sağ,2500000
-397,#8,"Norwich City ",78,187,Orta Saha,Sol,3500000
-398,#23,"Burnley FC ",87,183,Sol Bek,Sol,5000000
-399,#5,"Wolverhampton Wanderers ",78,188,Stoper,Sağ,7000000
-400,#6,"Sheffield United ",80,190,Stoper,Sağ,2500000
-401,#2,"Crystal Palace ",83,186,Sağ Bek,Sağ,4000000
-402,#26,"Aston Villa ",77,189,Santrafor,Sağ,7000000
-403,#18,"Norwich City ",86,190,10 Numara,Sol,4000000
-404,#21,"Brighton & Hove Albion ",77,187,Sağ Bek,Sağ,2000000
-405,#23,"Aston Villa ",70,180,Sağ Kanat,Sol,5000000
-406,#29,"Everton FC ",82,182,Santrafor,Sağ,6000000
-407,#24,"Arsenal FC ",71,175,Sağ Kanat,Sağ,17000000
-408,#2,"Norwich City ",73,178,Sağ Bek,Sağ,8000000
-409,#21,"Manchester United ",76,170,Sol Kanat,Sağ,25000000
-410,#36,"Newcastle United ",65,181,Orta Saha,Sağ,18000000
-411,#29,"Chelsea FC ",75,184,Stoper,Sağ,10000000
-412,#28,"Brighton & Hove Albion ",80,191,Ön Libero,Sağ,4500000
-413,#18,"Aston Villa ",70,183,Sol Bek,Sol,10000000
-414,#23,"Sheffield United ",75,176,Sol Bek,Sol,3000000
-415,#27,"Sheffield United ",80,180,Orta Saha,Sağ,5000000
-416,#3,"Norwich City ",72,183,Sağ Bek,Sağ,3500000
-417,#44,"Crystal Palace ",79,182,Stoper,Sol,5000000
-418,#6,"Norwich City ",92,194,Stoper,Sağ,3500000
-419,#90,"Chelsea FC ",82,193,Stoper,Sağ,3000000
-420,#23,"Norwich City ",70,180,Orta Saha,Sol,2500000
-421,#13,"Manchester United ",83,193,Kaleci,Sağ,750000
-422,#33,"Manchester City ",86,188,Kaleci,Sağ,2000000
-423,#26,"Burnley FC ",79,180,Sağ Bek,Sağ,1500000
-424,#17,"Sheffield United ",74,184,Santrafor,Sağ,2000000
-425,#25,"Aston Villa ",90,192,Kaleci,Sağ,2000000
-426,#4,"Norwich City ",74,183,Stoper,Sağ,9000000
-427,#38,"Southampton FC ",89,190,Stoper,Sağ,8000000
-428,#90,"Leicester City ",67,179,Sol Kanat,Sağ,2500000
-429,#22,"Sheffield United ",80,184,Santrafor,Sağ,6000000
-430,#37,"Wolverhampton Wanderers ",72,178,Orta Saha,Sol,15000000
-431,#33,"Brighton & Hove Albion ",87,201,Stoper,Sol,3000000
-432,#27,"Norwich City ",68,181,Ön Libero,Sağ,2000000
-433,#90,"Newcastle United ",77,177,Ön Libero,Sol,3000000
-434,#50,"Manchester City ",67,183,Sol Bek,Sağ,7000000
-435,#17,"Wolverhampton Wanderers ",70,171,Orta Saha,Sağ,8000000
-436,#29,"Wolverhampton Wanderers ",64,174,Sol Bek,Sol,10000000
-437,#27,"Arsenal FC ",88,194,Stoper,Sağ,3000000
-438,#9,"AFC Bournemouth ",80,186,Santrafor,Sağ,18000000
-439,#15,"Aston Villa ",77,183,Stoper,Sağ,8000000
-440,#17,"AFC Bournemouth ",62,180,Sağ Bek,Sağ,4000000
-441,#21,"Sheffield United ",90,196,Kaleci,Sağ,1500000
-442,#12,"Aston Villa ",80,182,Kaleci,Sol,2000000
-443,#21,"Crystal Palace ",90,189,Santrafor,Sağ,3000000
-444,#5,"Norwich City ",81,188,Stoper,Sağ,3000000
-445,#24,"Sheffield United ",89,188,Santrafor,Sağ,500000
-446,#21,"Wolverhampton Wanderers ",97,192,Kaleci,Sağ,3000000
-447,#21,"Newcastle United ",94,190,Kaleci,Sol,1000000
-448,#3,"Aston Villa ",75,176,Sol Bek,Sol,4000000
-449,#8,"Aston Villa ",85,183,Orta Saha,Sağ,1500000
-450,#27,"Aston Villa ",78,182,Sağ Bek,Sağ,3000000
-451,#30,"Everton FC ",77,185,Sağ Bek,Sağ,1500000
-452,#16,"Norwich City ",78,184,Sol Bek,Sol,1000000
-453,#20,"Watford FC ",66,173,10 Numara,Sağ,5000000
-454,#2,"Leicester City ",71,183,Sağ Bek,Sağ,4000000
-455,#43,"Southampton FC ",70,180,Sağ Bek,Sağ,7000000
-456,#15,"Burnley FC ",73,194,Kaleci,Sol,1500000
-457,#25,"Sheffield United ",73,191,Sağ Bek,Sağ,350000
-458,#35,"Watford FC ",81,191,Kaleci,Sağ,500000
-459,#17,"Leicester City ",77,178,Stoper,Sol,20000000
-460,#30,"Crystal Palace ",82,192,Stoper,Sağ,50000
-461,#2,"Sheffield United ",67,178,Sağ Bek,Sağ,3000000
-462,#19,"Sheffield United ",76,191,Stoper,Sağ,1000000
-463,#21,"Everton FC ",61,188,10 Numara,Sağ,28000000
-464,#26,"AFC Bournemouth ",70,190,Sol Bek,Sol,9000000
-465,#35,"Arsenal FC ",75,180,Sol Kanat,Sağ,8000000
-466,#12,"AFC Bournemouth ",77,188,Kaleci,Sağ,6000000
-467,#30,"Watford FC ",90,195,Kaleci,Sağ,1000000
-468,#30,"Aston Villa ",93,191,Stoper,Sol,3000000
-469,#14,"Norwich City ",70,177,Sol Kanat,Sağ,7000000
-470,#22,"Leicester City ",84,181,Stoper,Sağ,1500000
-471,#32,"Norwich City ",83,190,Santrafor,Sağ,1250000
-472,#23,"Brighton & Hove Albion ",79,188,Kaleci,Sağ,750000
-473,#18,"Sheffield United ",79,178,Sağ Bek,Sağ,1500000
-474,#35,"Leicester City ",85,191,Kaleci,Sağ,750000
-475,#33,"Norwich City ",89,190,Kaleci,Sağ,350000
-476,#27,"Brighton & Hove Albion ",87,191,Kaleci,Sağ,1500000
-477,#26,"Manchester United ",65,181,Santrafor,Sol,10000000
-478,#29,"Tottenham Hotspur ",70,175,Ön Libero,Sağ,8000000
-479,#28,"Arsenal FC ",71,179,Orta Saha,Sağ,10000000
-480,#20,"West Ham United ",83,189,Stoper,Sol,2500000
-481,#34,"Everton FC ",70,180,Ön Libero,Sağ,2000000
-482,#25,"AFC Bournemouth ",83,190,Stoper,Sol,1500000
-483,#7,"Sheffield United ",74,181,Orta Saha,Sağ,2000000
-484,#90,"Sheffield United ",75,188,Sol Kanat,Sağ,350000
-485,#7,"Wolverhampton Wanderers ",63,172,Santrafor,Sol,7000000
-486,#33,"Arsenal FC ",81,199,Kaleci,Sağ,250000
-487,#45,"Southampton FC ",70,181,Sol Bek,Sol,1000000
-488,#25,"West Ham United ",86,188,Kaleci,Sağ,250000
-489,#19,"Crystal Palace ",87,188,Kaleci,Sağ,500000
-490,#77,"Arsenal FC ",70,178,Sol Kanat,Sol,7000000
-491,#99,"Leicester City ",76,173,10 Numara,Sağ,500000
-492,#39,"Aston Villa ",75,178,Santrafor,Sağ,2000000
-493,#98,"Wolverhampton Wanderers ",73,182,Sol Kanat,Sağ,500000
-494,#22,"Liverpool FC ",87,193,Kaleci,Sol,250000
-495,#97,"Wolverhampton Wanderers ",81,181,Sağ Bek,Sağ,300000
-496,#44,"Brighton & Hove Albion ",77,175,Santrafor,Sağ,2500000
-497,#42,"AFC Bournemouth ",82,191,Kaleci,Sağ,250000
-498,#20,"Sheffield United ",72,185,Stoper,Sol,250000
-499,#30,"Burnley FC ",90,190,Kaleci,Sağ,250000
-500,#20,"Southampton FC ",71,170,Santrafor,Sağ,2000000
-501,#96,"Wolverhampton Wanderers ",80,193,Kaleci,Sağ,200000
-502,#47,"Chelsea FC ",67,168,Orta Saha,Sağ,2500000
-503,#47,"Newcastle United ",72,171,Orta Saha,Sağ,200000
-504,#53,"Manchester United ",75,183,Sol Bek,Sol,200000
-505,#42,"Newcastle United ",76,180,Sağ Bek,Sağ,75000
-506,#49,"Wolverhampton Wanderers ",80,192,Stoper,Sol,200000
-507,#6,"Wolverhampton Wanderers ",71,180,Orta Saha,Sağ,2500000
-508,#62,"Liverpool FC ",69,188,Kaleci,Sağ,500000
-509,#15,"Manchester United ",73,178,Sol Bek,Sol,15000000
-510,#24,"Watford FC ",68,179,Orta Saha,Sağ,150000
-511,#46,"Brighton & Hove Albion ",65,180,Orta Saha,Sağ,200000
-512,#13,"Tottenham Hotspur ",65,183,Orta Saha,Sağ,1000000
-513,#48,"Brighton & Hove Albion ",70,175,Orta Saha,Sol,350000
-514,#39,"Wolverhampton Wanderers ",80,172,Orta Saha,Sol,250000
+1,#1,"Arsenal FC",83,189,Kaleci,Sağ,30000000
+2,#2,"Arsenal FC",74,178,Sağ Bek,Sağ,40000000
+3,#17,"Manchester City",70,181,10 Numara,Sağ,130000000
+4,#4,"Liverpool FC",92,193,Stoper,Sağ,100000000
+5,#5,"Arsenal FC",85,186,Stoper,Sağ,20000000
+6,#10,"Arsenal FC",76,180,10 Numara,Sol,25000000
+7,#11,"Liverpool FC",71,175,Sağ Kanat,Sol,150000000
+8,#34,"Arsenal FC",82,186,Orta Saha,Sol,40000000
+9,#7,"Arsenal FC",75,177,Sağ Kanat,Sağ,25000000
+10,#10,"Tottenham Hotspur",89,188,Santrafor,Sağ,150000000
+11,#1,"Liverpool FC",91,191,Kaleci,Sağ,80000000
+12,#1,"Manchester United",82,189,Kaleci,Sağ,65000000
+13,#7,"Chelsea FC",72,168,Ön Libero,Sağ,100000000
+14,#9,"Arsenal FC",73,176,Santrafor,Sağ,70000000
+15,#14,"Arsenal FC",80,187,Santrafor,Sağ,70000000
+16,#10,"Manchester City",70,173,Santrafor,Sağ,65000000
+17,#5,"AFC Bournemouth",75,180,Stoper,Sol,35000000
+18,#6,"Manchester United",84,191,Orta Saha,Sağ,100000000
+19,#31,"Manchester City",86,188,Kaleci,Sol,70000000
+20,#7,"Manchester City",69,170,Sağ Kanat,Sağ,140000000
+21,#23,"Tottenham Hotspur",76,182,10 Numara,Sağ,100000000
+22,#24,"AFC Bournemouth",70,163,Sol Kanat,Sağ,30000000
+23,#1,"Tottenham Hotspur",82,188,Kaleci,Sol,25000000
+24,#13,"AFC Bournemouth",66,180,Santrafor,Sağ,30000000
+25,#21,"Manchester City",67,170,10 Numara,Sol,20000000
+26,#1,"Brighton & Hove Albion",82,184,Kaleci,Sağ,10000000
+27,#10,"Liverpool FC",69,174,Sol Kanat,Sağ,120000000
+28,#14,"Manchester City",85,191,Stoper,Sol,75000000
+29,#20,"Manchester City",64,173,Sağ Kanat,Sol,100000000
+30,#7,"Tottenham Hotspur",78,184,Santrafor,Sağ,80000000
+31,#25,"Manchester City",67,179,Ön Libero,Sağ,12000000
+32,#5,"Tottenham Hotspur",86,189,Stoper,Sol,22000000
+33,#1,"Aston Villa",92,188,Kaleci,Sağ,6000000
+34,#4,"Tottenham Hotspur",81,186,Stoper,Sağ,40000000
+35,#19,"Manchester City",75,184,Sol Kanat,Sol,100000000
+36,#9,"Liverpool FC",76,181,Santrafor,Sağ,80000000
+37,#28,"Chelsea FC",76,178,Sağ Bek,Sağ,35000000
+38,#3,"Chelsea FC",87,188,Sol Bek,Sol,32000000
+39,#23,"Arsenal FC",86,189,Stoper,Sağ,20000000
+40,#2,"Chelsea FC",85,190,Stoper,Sağ,50000000
+41,#4,"Chelsea FC",81,188,Stoper,Sağ,35000000
+42,#10,"Chelsea FC",78,175,Sağ Kanat,Sağ,35000000
+43,#11,"Chelsea FC",65,167,Sağ Kanat,Sağ,20000000
+44,#16,"Manchester City",82,191,Ön Libero,Sağ,80000000
+45,#18,"Chelsea FC",92,193,Santrafor,Sol,12000000
+46,#3,"Liverpool FC",78,188,Ön Libero,Sağ,50000000
+47,#26,"Liverpool FC",64,178,Sol Bek,Sol,60000000
+48,#4,"Crystal Palace",80,186,Ön Libero,Sağ,20000000
+49,#11,"Crystal Palace",66,180,Santrafor,Sağ,55000000
+50,#1,"Everton FC",77,185,Kaleci,Sol,40000000
+51,#5,"Everton FC",82,188,Stoper,Sağ,30000000
+52,#19,"Burnley FC",75,185,10 Numara,Sol,10000000
+53,#10,"Everton FC",77,186,10 Numara,Sağ,35000000
+54,#1,"Chelsea FC",85,186,Kaleci,Sağ,60000000
+55,#27,"Manchester City",74,182,Sağ Bek,Sağ,55000000
+56,#20,"Tottenham Hotspur",80,188,10 Numara,Sağ,90000000
+57,#1,"Leicester City",89,189,Kaleci,Sağ,12000000
+58,#5,"Manchester United",100,194,Stoper,Sağ,70000000
+59,#21,"Leicester City",70,175,Sağ Bek,Sağ,30000000
+60,#26,"Manchester City",67,179,Sağ Kanat,Sol,60000000
+61,#8,"West Ham United",70,175,Sol Kanat,Sağ,45000000
+62,#28,"Wolverhampton Wanderers",61,170,Orta Saha,Sağ,10000000
+63,#25,"Leicester City",74,183,Ön Libero,Sağ,35000000
+64,#9,"Leicester City",74,179,Santrafor,Sağ,20000000
+65,#12,"Liverpool FC",77,188,Stoper,Sağ,35000000
+66,#5,"Liverpool FC",69,175,Orta Saha,Sağ,50000000
+67,#32,"Liverpool FC",90,195,Stoper,Sağ,35000000
+68,#66,"Liverpool FC",69,180,Sağ Bek,Sağ,80000000
+69,#15,"Liverpool FC",70,175,Orta Saha,Sağ,35000000
+70,#14,"Liverpool FC",80,187,Ön Libero,Sağ,35000000
+71,#8,"Manchester City",80,180,Orta Saha,Sağ,50000000
+72,#2,"Manchester City",70,183,Sağ Bek,Sağ,50000000
+73,#7,"Liverpool FC",70,175,Orta Saha,Sağ,15000000
+74,#8,"Liverpool FC",64,172,Orta Saha,Sağ,50000000
+75,#5,"Manchester City",70,188,Stoper,Sağ,60000000
+76,#30,"Manchester City",81,183,Stoper,Sağ,25000000
+77,#18,"Tottenham Hotspur",68,177,Orta Saha,Sol,50000000
+78,#22,"Manchester City",85,185,Sol Bek,Sol,35000000
+79,#9,"Manchester United",76,183,Sol Kanat,Sağ,60000000
+80,#19,"Arsenal FC",73,183,Sağ Kanat,Sol,75000000
+81,#10,"Manchester United",70,185,Santrafor,Sağ,80000000
+82,#9,"Manchester City",73,175,Santrafor,Sağ,70000000
+83,#22,"Manchester United",86,192,Kaleci,Sağ,3500000
+84,#6,"Tottenham Hotspur",79,187,Stoper,Sağ,55000000
+85,#23,"Manchester United",75,181,Sol Bek,Sol,30000000
+86,#12,"Everton FC",74,178,Sol Bek,Sol,30000000
+87,#3,"Manchester United",77,187,Stoper,Sağ,25000000
+88,#2,"Manchester United",80,187,Stoper,Sağ,35000000
+89,#31,"Manchester United",85,194,Ön Libero,Sol,25000000
+90,#8,"Manchester United",63,170,10 Numara,Sol,20000000
+91,#14,"Manchester United",62,174,10 Numara,Sağ,40000000
+92,#22,"West Ham United",82,190,Santrafor,Sağ,45000000
+93,#1,"Newcastle United",80,191,Kaleci,Sağ,7000000
+94,#27,"Tottenham Hotspur",70,172,Santrafor,Sağ,40000000
+95,#5,"Chelsea FC",67,180,Orta Saha,Sağ,65000000
+96,#11,"Wolverhampton Wanderers",84,190,Kaleci,Sol,20000000
+97,#3,"Tottenham Hotspur",76,173,Sol Bek,Sol,25000000
+98,#11,"Tottenham Hotspur",80,184,Sağ Kanat,Sol,22000000
+99,#8,"Tottenham Hotspur",74,178,Orta Saha,Sağ,40000000
+100,#17,"Tottenham Hotspur",91,187,Orta Saha,Sağ,25000000
+101,#17,"Chelsea FC",78,177,Orta Saha,Sağ,35000000
+102,#11,"Arsenal FC",64,166,Ön Libero,Sağ,55000000
+103,#8,"Wolverhampton Wanderers",80,180,Orta Saha,Sağ,50000000
+104,#29,"Watford FC",87,189,Ön Libero,Sağ,8000000
+105,#16,"Watford FC",76,183,Ön Libero,Sağ,25000000
+106,#7,"Watford FC",73,177,Santrafor,Sağ,25000000
+107,#1,"West Ham United",83,190,Kaleci,Sağ,5000000
+108,#10,"West Ham United",59,167,10 Numara,Sağ,20000000
+109,#18,"Wolverhampton Wanderers",73,178,Santrafor,Sağ,35000000
+110,#26,"Watford FC",90,193,Kaleci,Sol,3000000
+111,#23,"Liverpool FC",72,169,Sağ Kanat,Sol,25000000
+112,#28,"Tottenham Hotspur",76,181,Orta Saha,Sağ,65000000
+113,#8,"Arsenal FC",70,179,Orta Saha,Sağ,45000000
+114,#18,"West Ham United",67,178,10 Numara,Sağ,25000000
+115,#15,"Chelsea FC",96,190,Stoper,Sağ,25000000
+116,#24,"Newcastle United",63,174,Sol Kanat,Sol,20000000
+117,#8,"Leicester City",72,176,Orta Saha,Sağ,45000000
+118,#21,"Norwich City",98,197,Kaleci,Sağ,4000000
+119,#37,"Watford FC",77,182,Sol Kanat,Sağ,13000000
+120,#6,"Liverpool FC",84,188,Stoper,Sağ,20000000
+121,#9,"Wolverhampton Wanderers",81,188,Santrafor,Sağ,35000000
+122,#20,"Everton FC",60,164,Sol Kanat,Sağ,20000000
+123,#29,"Manchester United",72,183,Sağ Bek,Sağ,40000000
+124,#10,"Newcastle United",67,173,Sağ Kanat,Sağ,25000000
+125,#22,"Chelsea FC",69,172,Sol Kanat,Sağ,60000000
+126,#12,"Chelsea FC",88,191,Orta Saha,Sağ,30000000
+127,#3,"Leicester City",77,178,Sol Bek,Sol,35000000
+128,#9,"Aston Villa",94,191,Santrafor,Sağ,20000000
+129,#16,"Southampton FC",66,177,Orta Saha,Sağ,18000000
+130,#17,"Everton FC",75,183,Sol Kanat,Sağ,32000000
+131,#25,"Everton FC",83,186,Ön Libero,Sağ,28000000
+132,#12,"Manchester City",69,175,Sol Bek,Sol,16000000
+133,#10,"Leicester City",73,175,10 Numara,Sağ,45000000
+134,#7,"Everton FC",71,179,Sağ Kanat,Sağ,50000000
+135,#15,"Tottenham Hotspur",90,188,Ön Libero,Sağ,30000000
+136,#11,"Brighton & Hove Albion",67,172,Sol Kanat,Sağ,16000000
+137,#19,"Wolverhampton Wanderers",70,175,Sol Bek,Sağ,20000000
+138,#8,"AFC Bournemouth",70,179,Ön Libero,Sağ,25000000
+139,#8,"Chelsea FC",87,185,10 Numara,Sağ,30000000
+140,#5,"Burnley FC",81,185,Stoper,Sağ,18000000
+141,#1,"Burnley FC",76,197,Kaleci,Sağ,10000000
+142,#23,"Chelsea FC",88,184,Santrafor,Sağ,25000000
+143,#31,"Arsenal FC",85,183,Sol Bek,Sol,20000000
+144,#5,"Newcastle United",84,186,Stoper,Sağ,12000000
+145,#4,"West Ham United",85,188,Stoper,Sağ,12000000
+146,#20,"Arsenal FC",82,184,Stoper,Sağ,18000000
+147,#15,"Wolverhampton Wanderers",97,195,Stoper,Sağ,15000000
+148,#33,"Tottenham Hotspur",76,181,Sol Bek,Sol,25000000
+149,#17,"Manchester United",64,169,Orta Saha,Sol,25000000
+150,#12,"Crystal Palace",83,187,Stoper,Sol,15000000
+151,#7,"AFC Bournemouth",82,181,Santrafor,Sağ,20000000
+152,#4,"Manchester United",71,185,Stoper,Sağ,15000000
+153,#24,"Tottenham Hotspur",76,176,Sağ Bek,Sağ,15000000
+154,#6,"Leicester City",77,188,Stoper,Sağ,12000000
+155,#18,"Arsenal FC",77,180,Sol Bek,Sol,8000000
+156,#23,"Everton FC",77,177,Sağ Bek,Sağ,15000000
+157,#20,"Liverpool FC",73,172,Orta Saha,Sağ,15000000
+158,#19,"West Ham United",68,172,Orta Saha,Sol,10000000
+159,#31,"Crystal Palace",80,190,Kaleci,Sağ,5000000
+160,#7,"West Ham United",83,190,Sağ Kanat,Sol,20000000
+161,#2,"Southampton FC",82,171,Santrafor,Sağ,12000000
+162,#23,"Watford FC",76,185,Sağ Kanat,Sağ,30000000
+163,#41,"West Ham United",80,185,Ön Libero,Sağ,50000000
+164,#23,"West Ham United",92,194,Stoper,Sağ,35000000
+165,#11,"Manchester City",64,175,Sol Bek,Sol,30000000
+166,#32,"Wolverhampton Wanderers",88,188,Orta Saha,Sağ,25000000
+167,#9,"Newcastle United",81,186,Santrafor,Sağ,35000000
+168,#27,"Liverpool FC",75,185,Santrafor,Sağ,20000000
+169,#13,"Everton FC",94,195,Stoper,Sağ,25000000
+170,#6,"Newcastle United",89,188,Stoper,Sağ,18000000
+171,#24,"Norwich City",81,183,Ön Libero,Sağ,7000000
+172,#7,"Crystal Palace",68,173,Orta Saha,Sağ,15000000
+173,#4,"Brighton & Hove Albion",76,193,Stoper,Sağ,12000000
+174,#20,"Newcastle United",89,190,Stoper,Sağ,8000000
+175,#5,"Brighton & Hove Albion",88,192,Stoper,Sağ,20000000
+176,#12,"Tottenham Hotspur",87,184,Ön Libero,Sağ,15000000
+177,#27,"Watford FC",84,187,Stoper,Sağ,8000000
+178,#2,"Wolverhampton Wanderers",87,186,Sağ Bek,Sağ,15000000
+179,#4,"Southampton FC",98,199,Stoper,Sağ,20000000
+180,#21,"Southampton FC",80,179,Sol Bek,Sol,15000000
+181,#5,"Crystal Palace",74,192,Stoper,Sağ,6000000
+182,#9,"West Ham United",73,175,Santrafor,Sağ,12000000
+183,#25,"Watford FC",81,184,Sol Bek,Sol,2000000
+184,#9,"Watford FC",90,184,Santrafor,Sağ,10000000
+185,#10,"Watford FC",73,185,Santrafor,Sağ,12000000
+186,#10,"Burnley FC",84,186,Santrafor,Sağ,10000000
+187,#6,"Burnley FC",82,180,Stoper,Sol,10000000
+188,#2,"Liverpool FC",67,175,Sağ Bek,Sağ,12000000
+189,#30,"West Ham United",82,180,Sağ Kanat,Sağ,15000000
+190,#13,"Brighton & Hove Albion",78,181,Orta Saha,Sağ,10000000
+191,#7,"Burnley FC",77,186,Sağ Kanat,Sol,10000000
+192,#3,"AFC Bournemouth",82,185,Stoper,Sağ,10000000
+193,#10,"Crystal Palace",73,181,Sağ Kanat,Sol,15000000
+194,#16,"Manchester United",85,186,Stoper,Sol,10000000
+195,#10,"Wolverhampton Wanderers",78,183,Santrafor,Sağ,25000000
+196,#20,"AFC Bournemouth",62,173,Sağ Kanat,Sol,30000000
+197,#10,"Aston Villa",68,175,10 Numara,Sağ,25000000
+198,#16,"AFC Bournemouth",71,175,Orta Saha,Sağ,20000000
+199,#39,"Manchester United",88,190,Ön Libero,Sağ,20000000
+200,#35,"Southampton FC",77,189,Stoper,Sağ,15000000
+201,#9,"Everton FC",71,187,Santrafor,Sağ,20000000
+202,#4,"Wolverhampton Wanderers",79,184,Stoper,Sağ,10000000
+203,#19,"Watford FC",74,185,Sağ Kanat,Sol,18000000
+204,#33,"Chelsea FC",77,175,Sol Bek,Sol,25000000
+205,#23,"Southampton FC",84,185,Orta Saha,Sağ,15000000
+206,#22,"Southampton FC",69,173,Sol Kanat,Sağ,20000000
+207,#19,"Southampton FC",67,175,Sol Kanat,Sağ,12000000
+208,#16,"Wolverhampton Wanderers",80,185,Stoper,Sağ,15000000
+209,#17,"Aston Villa",78,179,Sol Kanat,Sağ,8000000
+210,#8,"Newcastle United",80,184,Orta Saha,Sağ,15000000
+211,#9,"Burnley FC",92,191,Santrafor,Sağ,18000000
+212,#24,"Brighton & Hove Albion",79,185,Orta Saha,Sağ,15000000
+213,#42,"Chelsea FC",82,186,Orta Saha,Sağ,10000000
+214,#19,"Everton FC",71,182,Sağ Bek,Sağ,12000000
+215,#20,"Burnley FC",91,196,Kaleci,Sağ,4000000
+216,#18,"Manchester United",65,176,Sağ Bek,Sağ,5000000
+217,#24,"Crystal Palace",88,193,Stoper,Sağ,6000000
+218,#11,"Everton FC",68,175,Sağ Kanat,Sağ,15000000
+219,#17,"Brighton & Hove Albion",80,186,Santrafor,Sağ,3000000
+220,#1,"Manchester City",80,184,Kaleci,Sağ,2500000
+221,#18,"Everton FC",75,186,Ön Libero,Sağ,15000000
+222,#8,"Everton FC",78,174,Sol Bek,Sol,15000000
+223,#13,"West Ham United",94,192,Kaleci,Sağ,1500000
+224,#21,"West Ham United",86,191,Stoper,Sol,8000000
+225,#8,"Burnley FC",81,177,Orta Saha,Sağ,8000000
+226,#2,"Watford FC",80,185,Sağ Bek,Sağ,6000000
+227,#18,"Burnley FC",73,174,Orta Saha,Sağ,7000000
+228,#22,"Norwich City",80,180,Santrafor,Sağ,9000000
+229,#14,"Everton FC",78,183,Santrafor,Sağ,15000000
+230,#27,"Wolverhampton Wanderers",84,188,Ön Libero,Sol,5000000
+231,#47,"Manchester City",69,171,10 Numara,Sol,30000000
+232,#27,"Everton FC",79,183,Santrafor,Sağ,40000000
+233,#3,"Arsenal FC",78,178,Sol Bek,Sol,25000000
+234,#9,"Chelsea FC",80,191,Santrafor,Sağ,32000000
+235,#16,"Leicester City",91,194,Stoper,Sağ,11000000
+236,#14,"AFC Bournemouth",80,178,Sol Kanat,Sağ,12000000
+237,#14,"Newcastle United",79,186,Ön Libero,Sağ,10000000
+238,#28,"Southampton FC",77,196,Kaleci,Sağ,10000000
+239,#16,"Arsenal FC",75,189,Stoper,Sağ,12000000
+240,#22,"Aston Villa",83,194,Stoper,Sağ,10000000
+241,#24,"Aston Villa",70,178,Sağ Bek,Sağ,6000000
+242,#26,"Leicester City",78,181,Orta Saha,Sağ,24000000
+243,#23,"Crystal Palace",76,183,Orta Saha,Sağ,10000000
+244,#11,"Aston Villa",76,177,Ön Libero,Sol,8000000
+245,#14,"Sheffield United",71,175,10 Numara,Sağ,1000000
+246,#9,"Brighton & Hove Albion",87,185,Santrafor,Sağ,10000000
+247,#3,"Burnley FC",70,176,Sol Bek,Sol,7000000
+248,#26,"West Ham United",70,179,Sol Bek,Sol,10000000
+249,#22,"Newcastle United",75,173,Sağ Bek,Sağ,8000000
+250,#10,"Brighton & Hove Albion",78,180,Santrafor,Sağ,4500000
+251,#14,"Southampton FC",83,183,Ön Libero,Sağ,10000000
+252,#1,"Southampton FC",79,193,Kaleci,Sağ,5000000
+253,#9,"Southampton FC",73,178,Santrafor,Sağ,15000000
+254,#15,"Sheffield United",87,180,Stoper,Sağ,1000000
+255,#1,"Watford FC",95,191,Kaleci,Sağ,1000000
+256,#16,"West Ham United",76,180,Orta Saha,Sağ,7000000
+257,#11,"West Ham United",82,182,Sağ Kanat,Sol,7000000
+258,#4,"Burnley FC",75,185,Orta Saha,Sağ,15000000
+259,#18,"Crystal Palace",66,178,Orta Saha,Sağ,7000000
+260,#13,"Liverpool FC",73,190,Santrafor,Sağ,5000000
+261,#2,"West Ham United",87,191,Stoper,Sağ,5000000
+262,#4,"Newcastle United",75,189,Orta Saha,Sağ,6000000
+263,#15,"Watford FC",83,189,Stoper,Sağ,5000000
+264,#6,"Brighton & Hove Albion",78,185,Orta Saha,Sağ,6000000
+265,#11,"Leicester City",74,175,Sağ Kanat,Sağ,10000000
+266,#3,"Crystal Palace",67,176,Sol Bek,Sol,10000000
+267,#8,"Crystal Palace",83,189,Ön Libero,Sağ,10000000
+268,#3,"West Ham United",66,170,Sol Bek,Sol,8000000
+269,#8,"Watford FC",67,175,Orta Saha,Sağ,7000000
+270,#21,"Watford FC",61,171,Sağ Bek,Sağ,6000000
+271,#15,"AFC Bournemouth",78,174,Sağ Bek,Sağ,7000000
+272,#18,"Watford FC",78,178,Santrafor,Sağ,15000000
+273,#22,"Brighton & Hove Albion",73,175,Sağ Bek,Sağ,8000000
+274,#18,"Brighton & Hove Albion",72,179,Orta Saha,Sağ,14000000
+275,#12,"Burnley FC",77,176,Sol Kanat,Sol,8000000
+276,#18,"Newcastle United",83,190,Stoper,Sağ,7000000
+277,#12,"Newcastle United",78,177,Santrafor,Sağ,15000000
+278,#19,"Brighton & Hove Albion",75,171,Sol Kanat,Sağ,10000000
+279,#19,"Chelsea FC",64,178,10 Numara,Sağ,35000000
+280,#19,"Tottenham Hotspur",71,178,Sol Kanat,Sol,35000000
+281,#29,"Arsenal FC",68,184,Orta Saha,Sağ,45000000
+282,#22,"AFC Bournemouth",70,173,Sağ Kanat,Sol,18000000
+283,#1,"Sheffield United",85,188,Kaleci,Sağ,7000000
+284,#20,"Manchester United",76,183,Sağ Bek,Sağ,20000000
+285,#15,"Leicester City",66,180,Sol Kanat,Sağ,12000000
+286,#15,"Arsenal FC",71,180,Sağ Bek,Sağ,18000000
+287,#26,"Everton FC",70,180,Orta Saha,Sağ,15000000
+288,#7,"Brighton & Hove Albion",69,173,Santrafor,Sağ,18000000
+289,#2,"Everton FC",75,187,Sağ Bek,Sağ,7000000
+290,#8,"Brighton & Hove Albion",80,182,Orta Saha,Sağ,15000000
+291,#26,"Arsenal FC",85,190,Kaleci,Sağ,3500000
+292,#21,"Arsenal FC",73,183,Ön Libero,Sağ,14000000
+293,#7,"Aston Villa",68,178,Orta Saha,Sol,6500000
+294,#7,"Leicester City",74,180,Sol Kanat,Sağ,20000000
+295,#30,"Brighton & Hove Albion",76,186,Sol Bek,Sol,9000000
+296,#14,"Watford FC",76,185,Ön Libero,Sağ,7000000
+297,#22,"Tottenham Hotspur",90,195,Kaleci,Sağ,2000000
+298,#15,"Newcastle United",82,169,Sol Bek,Sol,5000000
+299,#20,"Brighton & Hove Albion",77,180,Sol Kanat,Sol,8000000
+300,#28,"Aston Villa",99,201,Kaleci,Sol,4000000
+301,#49,"Everton FC",88,195,Kaleci,Sağ,5000000
+302,#2,"Newcastle United",88,188,Stoper,Sol,6000000
+303,#34,"Crystal Palace",77,191,Stoper,Sağ,3000000
+304,#20,"Norwich City",81,184,Santrafor,Sağ,3000000
+305,#17,"Southampton FC",75,183,10 Numara,Sağ,8000000
+306,#3,"Newcastle United",82,183,Stoper,Sol,7000000
+307,#16,"Brighton & Hove Albion",78,180,Sağ Kanat,Sağ,12000000
+308,#13,"Newcastle United",72,178,Santrafor,Sağ,9000000
+309,#1,"AFC Bournemouth",87,193,Kaleci,Sağ,1000000
+310,#2,"AFC Bournemouth",90,191,Stoper,Sağ,2000000
+311,#5,"Leicester City",101,185,Stoper,Sağ,2000000
+312,#13,"Chelsea FC",81,186,Kaleci,Sağ,1000000
+313,#5,"West Ham United",74,176,Sağ Bek,Sağ,2000000
+314,#6,"Crystal Palace",78,194,Stoper,Sağ,4000000
+315,#3,"Everton FC",70,170,Sol Bek,Sol,3500000
+316,#13,"Crystal Palace",90,197,Kaleci,Sağ,5000000
+317,#6,"AFC Bournemouth",73,178,Orta Saha,Sol,2500000
+318,#6,"Watford FC",79,179,Stoper,Sağ,3000000
+319,#7,"Newcastle United",79,193,Santrafor,Sol,6000000
+320,#15,"West Ham United",82,182,Ön Libero,Sağ,1500000
+321,#17,"Crystal Palace",83,190,Santrafor,Sağ,15000000
+322,#4,"AFC Bournemouth",79,180,Orta Saha,Sağ,3500000
+323,#16,"Sheffield United",69,175,Orta Saha,Sağ,5000000
+324,#11,"Newcastle United",76,173,Sol Bek,Sol,12000000
+325,#22,"Crystal Palace",72,180,Ön Libero,Sağ,5000000
+326,#19,"AFC Bournemouth",76,183,Sol Kanat,Sağ,3500000
+327,#3,"Southampton FC",78,189,Stoper,Sağ,7000000
+328,#4,"Watford FC",82,188,Stoper,Sağ,6000000
+329,#9,"Crystal Palace",81,182,Santrafor,Sağ,8000000
+330,#24,"Leicester City",73,167,Ön Libero,Sağ,8000000
+331,#2,"Burnley FC",78,180,Sağ Bek,Sağ,5000000
+332,#13,"Burnley FC",84,185,Sağ Kanat,Sağ,10000000
+333,#20,"Chelsea FC",75,177,Sağ Kanat,Sağ,35000000
+334,#21,"Tottenham Hotspur",69,187,Stoper,Sağ,15000000
+335,#11,"Burnley FC",68,183,Sol Kanat,Sol,15000000
+336,#6,"Aston Villa",70,178,Orta Saha,Sağ,10000000
+337,#20,"Leicester City",64,178,Ön Libero,Sağ,10000000
+338,#12,"Southampton FC",65,177,Sol Kanat,Sağ,12000000
+339,#29,"AFC Bournemouth",80,198,Orta Saha,Sol,15000000
+340,#7,"Norwich City",66,167,Sağ Kanat,Sol,5000000
+341,#27,"West Ham United",78,183,Santrafor,Sağ,7000000
+342,#4,"Leicester City",82,187,Stoper,Sağ,20000000
+343,#9,"Sheffield United",77,188,Santrafor,Sağ,12000000
+344,#10,"Southampton FC",66,179,Santrafor,Sağ,12000000
+345,#17,"Norwich City",65,172,Sağ Kanat,Sağ,18000000
+346,#5,"Southampton FC",75,185,Stoper,Sağ,8000000
+347,#16,"Tottenham Hotspur",64,173,Sağ Bek,Sağ,10000000
+348,#5,"Sheffield United",85,191,Stoper,Sol,6500000
+349,#21,"Aston Villa",90,189,Sol Kanat,Sağ,7500000
+350,#11,"Watford FC",87,191,Sol Bek,Sol,5000000
+351,#14,"Burnley FC",78,185,Stoper,Sol,10000000
+352,#15,"Brighton & Hove Albion",75,190,Stoper,Sağ,15000000
+353,#17,"Newcastle United",72,184,Sağ Bek,Sağ,5000000
+354,#19,"Newcastle United",76,178,Sağ Bek,Sağ,5000000
+355,#40,"Aston Villa",77,195,Stoper,Sol,18000000
+356,#12,"Sheffield United",75,185,Stoper,Sağ,7000000
+357,#24,"West Ham United",74,181,Sağ Bek,Sağ,7000000
+358,#21,"AFC Bournemouth",76,183,Sol Bek,Sol,7000000
+359,#15,"Crystal Palace",72,178,Sol Kanat,Sol,10000000
+360,#36,"Watford FC",78,183,Sağ Kanat,Sağ,3500000
+361,#25,"Burnley FC",63,165,Sağ Kanat,Sağ,5000000
+362,#10,"Sheffield United",70,175,Santrafor,Sağ,2500000
+363,#7,"Southampton FC",70,180,Santrafor,Sağ,5000000
+364,#3,"Brighton & Hove Albion",74,183,Sol Bek,Sol,2000000
+365,#28,"Newcastle United",76,175,10 Numara,Sağ,1000000
+366,#5,"Aston Villa",79,177,Stoper,Sağ,8000000
+367,#14,"Brighton & Hove Albion",88,190,Stoper,Sağ,2000000
+368,#3,"Sheffield United",78,183,Sol Bek,Sol,3500000
+369,#32,"Watford FC",82,186,Sol Bek,Sol,2500000
+370,#14,"Aston Villa",70,181,Orta Saha,Sol,6500000
+371,#15,"Norwich City",87,195,Stoper,Sağ,3000000
+372,#30,"Newcastle United",65,165,Sol Kanat,Sol,6000000
+373,#24,"Chelsea FC",82,182,Sağ Bek,Sağ,7000000
+374,#38,"Manchester United",72,184,Stoper,Sağ,7000000
+375,#24,"Manchester United",78,190,Sağ Bek,Sağ,7000000
+376,#33,"AFC Bournemouth",75,191,Stoper,Sağ,13000000
+377,#14,"Leicester City",80,185,Santrafor,Sol,12000000
+378,#22,"Watford FC",90,182,Santrafor,Sağ,5000000
+379,#10,"AFC Bournemouth",81,176,Sağ Kanat,Sağ,8000000
+380,#11,"Sheffield United",75,178,Santrafor,Sağ,7000000
+381,#18,"Leicester City",79,186,Sağ Bek,Sağ,7000000
+382,#26,"Newcastle United",78,190,Kaleci,Sağ,3500000
+383,#10,"Norwich City",68,174,Orta Saha,Sağ,3000000
+384,#19,"Norwich City",72,181,Ön Libero,Sağ,4000000
+385,#8,"Sheffield United",73,176,10 Numara,Sol,5000000
+386,#4,"Sheffield United",72,169,Orta Saha,Sol,5000000
+387,#28,"Burnley FC",82,188,Stoper,Sağ,2500000
+388,#27,"Burnley FC",71,180,10 Numara,Sağ,8000000
+389,#11,"Norwich City",76,172,Sol Kanat,Sağ,4000000
+390,#12,"Leicester City",88,191,Kaleci,Sağ,8000000
+391,#22,"Everton FC",92,197,Kaleci,Sağ,1000000
+392,#28,"Leicester City",89,187,Sol Bek,Sol,3000000
+393,#12,"Norwich City",85,178,Kaleci,Sağ,9000000
+394,#11,"AFC Bournemouth",75,178,Sol Bek,Sol,3000000
+395,#1,"Norwich City",74,193,Kaleci,Sol,4000000
+396,#5,"Watford FC",97,194,Stoper,Sağ,2500000
+397,#8,"Norwich City",78,187,Orta Saha,Sol,3500000
+398,#23,"Burnley FC",87,183,Sol Bek,Sol,5000000
+399,#5,"Wolverhampton Wanderers",78,188,Stoper,Sağ,7000000
+400,#6,"Sheffield United",80,190,Stoper,Sağ,2500000
+401,#2,"Crystal Palace",83,186,Sağ Bek,Sağ,4000000
+402,#26,"Aston Villa",77,189,Santrafor,Sağ,7000000
+403,#18,"Norwich City",86,190,10 Numara,Sol,4000000
+404,#21,"Brighton & Hove Albion",77,187,Sağ Bek,Sağ,2000000
+405,#23,"Aston Villa",70,180,Sağ Kanat,Sol,5000000
+406,#29,"Everton FC",82,182,Santrafor,Sağ,6000000
+407,#24,"Arsenal FC",71,175,Sağ Kanat,Sağ,17000000
+408,#2,"Norwich City",73,178,Sağ Bek,Sağ,8000000
+409,#21,"Manchester United",76,170,Sol Kanat,Sağ,25000000
+410,#36,"Newcastle United",65,181,Orta Saha,Sağ,18000000
+411,#29,"Chelsea FC",75,184,Stoper,Sağ,10000000
+412,#28,"Brighton & Hove Albion",80,191,Ön Libero,Sağ,4500000
+413,#18,"Aston Villa",70,183,Sol Bek,Sol,10000000
+414,#23,"Sheffield United",75,176,Sol Bek,Sol,3000000
+415,#27,"Sheffield United",80,180,Orta Saha,Sağ,5000000
+416,#3,"Norwich City",72,183,Sağ Bek,Sağ,3500000
+417,#44,"Crystal Palace",79,182,Stoper,Sol,5000000
+418,#6,"Norwich City",92,194,Stoper,Sağ,3500000
+419,#90,"Chelsea FC",82,193,Stoper,Sağ,3000000
+420,#23,"Norwich City",70,180,Orta Saha,Sol,2500000
+421,#13,"Manchester United",83,193,Kaleci,Sağ,750000
+422,#33,"Manchester City",86,188,Kaleci,Sağ,2000000
+423,#26,"Burnley FC",79,180,Sağ Bek,Sağ,1500000
+424,#17,"Sheffield United",74,184,Santrafor,Sağ,2000000
+425,#25,"Aston Villa",90,192,Kaleci,Sağ,2000000
+426,#4,"Norwich City",74,183,Stoper,Sağ,9000000
+427,#38,"Southampton FC",89,190,Stoper,Sağ,8000000
+428,#90,"Leicester City",67,179,Sol Kanat,Sağ,2500000
+429,#22,"Sheffield United",80,184,Santrafor,Sağ,6000000
+430,#37,"Wolverhampton Wanderers",72,178,Orta Saha,Sol,15000000
+431,#33,"Brighton & Hove Albion",87,201,Stoper,Sol,3000000
+432,#27,"Norwich City",68,181,Ön Libero,Sağ,2000000
+433,#90,"Newcastle United",77,177,Ön Libero,Sol,3000000
+434,#50,"Manchester City",67,183,Sol Bek,Sağ,7000000
+435,#17,"Wolverhampton Wanderers",70,171,Orta Saha,Sağ,8000000
+436,#29,"Wolverhampton Wanderers",64,174,Sol Bek,Sol,10000000
+437,#27,"Arsenal FC",88,194,Stoper,Sağ,3000000
+438,#9,"AFC Bournemouth",80,186,Santrafor,Sağ,18000000
+439,#15,"Aston Villa",77,183,Stoper,Sağ,8000000
+440,#17,"AFC Bournemouth",62,180,Sağ Bek,Sağ,4000000
+441,#21,"Sheffield United",90,196,Kaleci,Sağ,1500000
+442,#12,"Aston Villa",80,182,Kaleci,Sol,2000000
+443,#21,"Crystal Palace",90,189,Santrafor,Sağ,3000000
+444,#5,"Norwich City",81,188,Stoper,Sağ,3000000
+445,#24,"Sheffield United",89,188,Santrafor,Sağ,500000
+446,#21,"Wolverhampton Wanderers",97,192,Kaleci,Sağ,3000000
+447,#21,"Newcastle United",94,190,Kaleci,Sol,1000000
+448,#3,"Aston Villa",75,176,Sol Bek,Sol,4000000
+449,#8,"Aston Villa",85,183,Orta Saha,Sağ,1500000
+450,#27,"Aston Villa",78,182,Sağ Bek,Sağ,3000000
+451,#30,"Everton FC",77,185,Sağ Bek,Sağ,1500000
+452,#16,"Norwich City",78,184,Sol Bek,Sol,1000000
+453,#20,"Watford FC",66,173,10 Numara,Sağ,5000000
+454,#2,"Leicester City",71,183,Sağ Bek,Sağ,4000000
+455,#43,"Southampton FC",70,180,Sağ Bek,Sağ,7000000
+456,#15,"Burnley FC",73,194,Kaleci,Sol,1500000
+457,#25,"Sheffield United",73,191,Sağ Bek,Sağ,350000
+458,#35,"Watford FC",81,191,Kaleci,Sağ,500000
+459,#17,"Leicester City",77,178,Stoper,Sol,20000000
+460,#30,"Crystal Palace",82,192,Stoper,Sağ,50000
+461,#2,"Sheffield United",67,178,Sağ Bek,Sağ,3000000
+462,#19,"Sheffield United",76,191,Stoper,Sağ,1000000
+463,#21,"Everton FC",61,188,10 Numara,Sağ,28000000
+464,#26,"AFC Bournemouth",70,190,Sol Bek,Sol,9000000
+465,#35,"Arsenal FC",75,180,Sol Kanat,Sağ,8000000
+466,#12,"AFC Bournemouth",77,188,Kaleci,Sağ,6000000
+467,#30,"Watford FC",90,195,Kaleci,Sağ,1000000
+468,#30,"Aston Villa",93,191,Stoper,Sol,3000000
+469,#14,"Norwich City",70,177,Sol Kanat,Sağ,7000000
+470,#22,"Leicester City",84,181,Stoper,Sağ,1500000
+471,#32,"Norwich City",83,190,Santrafor,Sağ,1250000
+472,#23,"Brighton & Hove Albion",79,188,Kaleci,Sağ,750000
+473,#18,"Sheffield United",79,178,Sağ Bek,Sağ,1500000
+474,#35,"Leicester City",85,191,Kaleci,Sağ,750000
+475,#33,"Norwich City",89,190,Kaleci,Sağ,350000
+476,#27,"Brighton & Hove Albion",87,191,Kaleci,Sağ,1500000
+477,#26,"Manchester United",65,181,Santrafor,Sol,10000000
+478,#29,"Tottenham Hotspur",70,175,Ön Libero,Sağ,8000000
+479,#28,"Arsenal FC",71,179,Orta Saha,Sağ,10000000
+480,#20,"West Ham United",83,189,Stoper,Sol,2500000
+481,#34,"Everton FC",70,180,Ön Libero,Sağ,2000000
+482,#25,"AFC Bournemouth",83,190,Stoper,Sol,1500000
+483,#7,"Sheffield United",74,181,Orta Saha,Sağ,2000000
+484,#90,"Sheffield United",75,188,Sol Kanat,Sağ,350000
+485,#7,"Wolverhampton Wanderers",63,172,Santrafor,Sol,7000000
+486,#33,"Arsenal FC",81,199,Kaleci,Sağ,250000
+487,#45,"Southampton FC",70,181,Sol Bek,Sol,1000000
+488,#25,"West Ham United",86,188,Kaleci,Sağ,250000
+489,#19,"Crystal Palace",87,188,Kaleci,Sağ,500000
+490,#77,"Arsenal FC",70,178,Sol Kanat,Sol,7000000
+491,#99,"Leicester City",76,173,10 Numara,Sağ,500000
+492,#39,"Aston Villa",75,178,Santrafor,Sağ,2000000
+493,#98,"Wolverhampton Wanderers",73,182,Sol Kanat,Sağ,500000
+494,#22,"Liverpool FC",87,193,Kaleci,Sol,250000
+495,#97,"Wolverhampton Wanderers",81,181,Sağ Bek,Sağ,300000
+496,#44,"Brighton & Hove Albion",77,175,Santrafor,Sağ,2500000
+497,#42,"AFC Bournemouth",82,191,Kaleci,Sağ,250000
+498,#20,"Sheffield United",72,185,Stoper,Sol,250000
+499,#30,"Burnley FC",90,190,Kaleci,Sağ,250000
+500,#20,"Southampton FC",71,170,Santrafor,Sağ,2000000
+501,#96,"Wolverhampton Wanderers",80,193,Kaleci,Sağ,200000
+502,#47,"Chelsea FC",67,168,Orta Saha,Sağ,2500000
+503,#47,"Newcastle United",72,171,Orta Saha,Sağ,200000
+504,#53,"Manchester United",75,183,Sol Bek,Sol,200000
+505,#42,"Newcastle United",76,180,Sağ Bek,Sağ,75000
+506,#49,"Wolverhampton Wanderers",80,192,Stoper,Sol,200000
+507,#6,"Wolverhampton Wanderers",71,180,Orta Saha,Sağ,2500000
+508,#62,"Liverpool FC",69,188,Kaleci,Sağ,500000
+509,#15,"Manchester United",73,178,Sol Bek,Sol,15000000
+510,#24,"Watford FC",68,179,Orta Saha,Sağ,150000
+511,#46,"Brighton & Hove Albion",65,180,Orta Saha,Sağ,200000
+512,#13,"Tottenham Hotspur",65,183,Orta Saha,Sağ,1000000
+513,#48,"Brighton & Hove Albion",70,175,Orta Saha,Sol,350000
+514,#39,"Wolverhampton Wanderers",80,172,Orta Saha,Sol,250000
