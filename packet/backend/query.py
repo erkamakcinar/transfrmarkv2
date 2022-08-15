@@ -18,10 +18,9 @@ class Query:
                                 inner join INSAN `i` on(i.Tc = o.OyuncuTc)
                         GROUP BY (t.Isim)
                     """
+            cursor.execute(query)
             cursor.connection.commit()
             result = cursor.fetchall()
-            for row in result:
-                print(type(row[0]),type(row[1]),type(row[2]),type(row[3]),type(row[4]))
             return result
         
         if(isQueryAboutTeam == False):
