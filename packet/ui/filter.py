@@ -4,7 +4,8 @@ from wtforms.validators import DataRequired, Length
 
 class TeamFiler(FlaskForm):
     team_name = StringField('Takım İsmi', default=None)
-    cup_num = IntegerField('Kupa Sayısı', default=None)
+    kupa_min = IntegerField('Min:', default=None)
+    kupa_max = IntegerField('Max:', default=None)
     total_val = FloatField('Toplam Piyasa Değeri')
     home_towns = StringField('Şehir')
     team_submit = SubmitField('Filtrele')

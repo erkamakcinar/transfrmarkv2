@@ -25,9 +25,18 @@
                 {{ teamFilter.team_name(class="col ml-1 form-control-sm") }}
             </div>
 
-            <div class="form-group row">
-                {{ teamFilter.cup_num.label(class="col-lg-5 col-md-7 form-control-label") }}
-                {{ teamFilter.cup_num(class="col ml-1 form-control-sm") }}
+            <div class="row">
+                <div class="col"><p>Kupa Sayısı</p></div>
+                <div class="col">
+                    <div class="form-group col">
+                        {{ teamFilter.kupa_min.label(class="col form-control-label") }}
+                        {{ teamFilter.kupa_min(class="col form-control-sm") }}
+                    </div> 
+                    <div class="form-group col">
+                        {{ teamFilter.kupa_max.label(class="col form-control-label") }}
+                        {{ teamFilter.kupa_max(class="col form-control-sm") }} 
+                    </div>
+                </div>    
             </div>
 
             <div class="form-group row">
